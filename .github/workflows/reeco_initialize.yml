@@ -92,6 +92,12 @@ jobs:
           pip install pysparql-anything
           python build_rdf_data_files.py
 
+      - name: build Citation data CSV
+        id: build_citation_data_file
+        run: |
+          pip install pysparql-anything
+          python build_citation_data_file.py
+
       - name: get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y_%m_%d_%H-%M')"
