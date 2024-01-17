@@ -7,6 +7,8 @@ namespace = config['rdf']['namespace']
 engine = pysa.SparqlAnything()
 directory = './content/'
 includes = './_includes/cite/'
+dataFile = './_data/cite.yml'
+cite = dict()
 for root, dirs, files in os.walk(directory):
     for filename in files:
         if not filename.endswith('.md'):
@@ -28,13 +30,17 @@ for root, dirs, files in os.walk(directory):
         d = engine.select(q='./component-citation.sparql', v={'componentFile': location}) #
         if len(d['results']['bindings']) == 0 or 'component' not in d['results']['bindings'][0]:
             continue
+        component = d['results']['bindings'][0]['component']['value']
         if 'apa' in d['results']['bindings'][0]:
             apa = d['results']['bindings'][0]['apa']['value']
-            f1 = open(output_includes_apa, 'w')
-            f1.write(apa)
+        else:
+            apa = ''
 
         if 'bibtex' in d['results']['bindings'][0]:
             bibtex = d['results']['bindings'][0]['bibtex']['value']
-            f1 = open(output_includes_bib, 'w')
-            f1.write(bibtex)
+        else:
+            bibtex = ""
+        cite[component] = {'id': component, 'apa': apa, 'bibtex': bibtex}
 
+with open(dataFile, 'w') as outfile:
+    yaml.dump(cite, outfile, default_flow_style=False)
