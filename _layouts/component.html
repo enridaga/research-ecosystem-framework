@@ -3,8 +3,10 @@ layout: default
 ---
 
 <button onclick="toggleMetaData(this)">Metadata</button>
+{% if page['doi'] %}
 <button onclick="toggleApa(this)">Cite as</button>
 <button onclick="toggleBibtex(this)">Bibtex</button>
+{% endif %}
 
 <div class="annotation-schema" id="metadata" style="display:none">
 
