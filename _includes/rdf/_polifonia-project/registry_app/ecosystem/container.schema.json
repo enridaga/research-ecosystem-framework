@@ -6,12 +6,12 @@
     ],
     "https://schema.org/funder": [
       {
-        "@id": "_:n38d5f69eadf8454783ae9c7b53828060b1"
+        "@id": "_:n77774081d972422185b1dea1dfbc2eacb1"
       }
     ]
   },
   {
-    "@id": "_:n38d5f69eadf8454783ae9c7b53828060b1",
+    "@id": "_:n77774081d972422185b1dea1dfbc2eacb1",
     "https://schema.org/name": [
       {
         "@value": "European Commission"
@@ -21,6 +21,18 @@
       {
         "@value": "https://cordis.europa.eu/project/id/101004746/it"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -63,18 +75,6 @@
         "@language": "en",
         "@value": "The musoW registry"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

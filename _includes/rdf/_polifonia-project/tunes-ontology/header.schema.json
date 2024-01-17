@@ -1,20 +1,26 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Mark",
     "@type": [
       "https://schema.org/ShortStory"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   },
   {
@@ -65,12 +71,12 @@
         "@value": "https://w3id.org/polifonia/ontology/tunes/"
       },
       {
-        "@id": "_:n408658a58ec5429aa3a2fbd0ade58050b1"
+        "@id": "_:naba901fb90154897afe8cc27abb27a85b1"
       }
     ],
     "https://schema.org/image": [
       {
-        "@value": "diagrams/tunes_ontology.png"
+        "@value": "https://github.com/polifonia-project/tunes-ontology/raw/main/diagrams/tunes_ontology.png"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -102,7 +108,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n408658a58ec5429aa3a2fbd0ade58050b2"
+        "@id": "_:naba901fb90154897afe8cc27abb27a85b2"
       }
     ],
     "https://schema.org/title": [
@@ -118,7 +124,7 @@
     ]
   },
   {
-    "@id": "_:n408658a58ec5429aa3a2fbd0ade58050b1",
+    "@id": "_:naba901fb90154897afe8cc27abb27a85b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -134,7 +140,7 @@
     ]
   },
   {
-    "@id": "_:n408658a58ec5429aa3a2fbd0ade58050b2",
+    "@id": "_:naba901fb90154897afe8cc27abb27a85b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/ontology-network/releases"
@@ -149,12 +155,6 @@
       {
         "@value": "13/04/2023"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]
