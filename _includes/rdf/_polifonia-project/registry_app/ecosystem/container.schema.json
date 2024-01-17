@@ -1,8 +1,8 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
-      "https://schema.org/Project"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -48,18 +48,24 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/101004746",
     "@type": [
       "https://schema.org/Grant"
     ],
     "https://schema.org/funder": [
       {
-        "@id": "_:n8d410c02557e4b3883d016b6cf2f3a03b1"
+        "@id": "_:nfbd20823297a47f8abbd5999b0a7f5a6b1"
       }
     ]
   },
   {
-    "@id": "_:n8d410c02557e4b3883d016b6cf2f3a03b1",
+    "@id": "_:nfbd20823297a47f8abbd5999b0a7f5a6b1",
     "https://schema.org/name": [
       {
         "@value": "European Commission"
@@ -69,12 +75,6 @@
       {
         "@value": "https://cordis.europa.eu/project/id/101004746/it"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

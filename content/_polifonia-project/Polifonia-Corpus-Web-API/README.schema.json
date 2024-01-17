@@ -1,11 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Polifonia-Corpus-Web-API",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -40,7 +34,7 @@
         "@value": "Polifonia-Corpus-Web-API"
       },
       {
-        "@id": "_:n1e827bc5f2da49c7839262465b2d73eeb1"
+        "@id": "_:n9fcd21b364f540a59874c6a6e51490fbb1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -74,7 +68,7 @@
     ]
   },
   {
-    "@id": "_:n1e827bc5f2da49c7839262465b2d73eeb1",
+    "@id": "_:n9fcd21b364f540a59874c6a6e51490fbb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -87,6 +81,12 @@
       {
         "@value": "10.5281/zenodo.7736486"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   },
   {

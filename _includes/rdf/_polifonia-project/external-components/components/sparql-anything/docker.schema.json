@@ -6,30 +6,6 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-docker",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -64,7 +40,7 @@
         "@value": "sparql-anything-docker"
       },
       {
-        "@id": "_:nbfc800b948554249b1c8890c261068a2b1"
+        "@id": "_:n43618ef6e34f44ff9532a677d5223534b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -101,7 +77,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:nbfc800b948554249b1c8890c261068a2b2"
+        "@id": "_:n43618ef6e34f44ff9532a677d5223534b2"
       }
     ],
     "https://schema.org/title": [
@@ -112,7 +88,7 @@
     ]
   },
   {
-    "@id": "_:nbfc800b948554249b1c8890c261068a2b1",
+    "@id": "_:n43618ef6e34f44ff9532a677d5223534b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -128,7 +104,7 @@
     ]
   },
   {
-    "@id": "_:nbfc800b948554249b1c8890c261068a2b2",
+    "@id": "_:n43618ef6e34f44ff9532a677d5223534b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/SPARQL-Anything/sparql.anything/releases/tag/v0.8.1"
@@ -143,6 +119,30 @@
       {
         "@value": "2022/12/18"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

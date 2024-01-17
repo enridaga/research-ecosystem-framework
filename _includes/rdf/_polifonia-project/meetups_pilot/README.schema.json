@@ -85,12 +85,12 @@
     ],
     "https://schema.org/funder": [
       {
-        "@id": "_:n126661193bd0451d8dc423d55f098e01b1"
+        "@id": "_:nca90a35b359a44e5b7641bca7e764a5fb1"
       }
     ]
   },
   {
-    "@id": "_:n126661193bd0451d8dc423d55f098e01b1",
+    "@id": "_:nca90a35b359a44e5b7641bca7e764a5fb1",
     "https://schema.org/name": [
       {
         "@value": "European Commission H2020"
@@ -103,15 +103,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   }
 ]
