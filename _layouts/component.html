@@ -76,14 +76,20 @@ layout: default
 
 {% if page['doi'] %}
 {% assign cite = site.data.cite | where_exp: "item", "item.id == page['component-id']" | first %}
+{% endif %}
+
 <div class="annotation-schema" id="bibtex" style="display:none">
+{% if page['doi'] %}
 <cite>{{cite['bibtex']}}</cite>
-</div>
-<div class="annotation-schema" id="apa" style="display:none">
-<cite>{{cite['apa']}}</cite>
+{% endif %}
 </div>
 
+<div class="annotation-schema" id="apa" style="display:none">
+{% if page['doi'] %}
+<cite>{{cite['apa']}}</cite>
 {% endif %}
+</div>
+
 <!--
 {{page.url}}
 
