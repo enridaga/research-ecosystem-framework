@@ -1,5 +1,23 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/meetups-ui-design",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/RequirementsCollection",
@@ -70,7 +88,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:nb419743158be420484e4bd38cb0479c2b1"
+        "@id": "_:nae6f1b7593db43b88ae6804cce56bbffb1"
       }
     ],
     "https://schema.org/title": [
@@ -86,7 +104,7 @@
     ]
   },
   {
-    "@id": "_:nb419743158be420484e4bd38cb0479c2b1",
+    "@id": "_:nae6f1b7593db43b88ae6804cce56bbffb1",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/meetups-ui-design/releases/tag/v0.1.0"
@@ -101,24 +119,6 @@
       {
         "@value": "17/04/2023"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
     ]
   }
 ]

@@ -25,6 +25,11 @@
         "@value": "pattern-exploration-gui"
       }
     ],
+    "https://schema.org/citation": [
+      {
+        "@value": "Forthcoming paper in SWODCH 2023"
+      }
+    ],
     "https://schema.org/contributor": [
       {
         "@value": "https://github.com/danDiamo"
@@ -70,6 +75,11 @@
       },
       {
         "@value": "folk_ngram_analysis"
+      }
+    ],
+    "https://schema.org/subjectOf": [
+      {
+        "@value": "Polifonia Deliverable 3.4"
       }
     ],
     "https://schema.org/title": [
