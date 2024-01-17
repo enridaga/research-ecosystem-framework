@@ -64,10 +64,22 @@ layout: default
   <a href="{{ ghLink | replace: "#", "%23"}}.md">View this file on Github</a>
     {% assign schema_file_path = page.path | replace: '.md', '.schema.json' %}
     {% assign schema_file_path_fs = "rdf/" | append: {{schema_file_path}}  %}
-    <a href="{{ page.url | replace: '.html', '.schema.json' | absolute_url}}">Download as Schema.org</a>
+    {% assign apa_file_path = page.path | replace: '.md', '.cite.apa' %}
+    {% assign bibtex_file_path = page.path | replace: '.md', '.cite.bib' %}
+    {% assign apa_file_path_fs = "cite/" | append: {{apa_file_path}}  %}
+	{% assign bibtex_file_path_fs = "cite/" | append: {{bibtex_file_path}}  %}
+	<a href="{{ page.url | replace: '.html', '.schema.json' | absolute_url}}">Download as Schema.org</a>
     <script type="application/ld+json">
         {% include {{schema_file_path_fs}} %}
     </script>
+    <code>
+        {% include {{apa_file_path_fs}} %}
+    </code>
+
+    <code>
+        {% include {{bibtex_file_path_fs}} %}
+    </code>
+
 </div>
 
 <!--
