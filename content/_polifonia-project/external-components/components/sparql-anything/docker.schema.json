@@ -1,8 +1,20 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   },
   {
@@ -12,13 +24,7 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
@@ -58,7 +64,7 @@
         "@value": "sparql-anything-docker"
       },
       {
-        "@id": "_:nb1b924b20c024327b360cebf73d86694b1"
+        "@id": "_:nbfc800b948554249b1c8890c261068a2b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -95,7 +101,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:nb1b924b20c024327b360cebf73d86694b2"
+        "@id": "_:nbfc800b948554249b1c8890c261068a2b2"
       }
     ],
     "https://schema.org/title": [
@@ -106,7 +112,7 @@
     ]
   },
   {
-    "@id": "_:nb1b924b20c024327b360cebf73d86694b1",
+    "@id": "_:nbfc800b948554249b1c8890c261068a2b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -122,7 +128,7 @@
     ]
   },
   {
-    "@id": "_:nb1b924b20c024327b360cebf73d86694b2",
+    "@id": "_:nbfc800b948554249b1c8890c261068a2b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/SPARQL-Anything/sparql.anything/releases/tag/v0.8.1"
@@ -137,12 +143,6 @@
       {
         "@value": "2022/12/18"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
     ]
   }
 ]

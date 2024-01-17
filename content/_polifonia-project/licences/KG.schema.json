@@ -29,7 +29,7 @@
         "@value": "licences"
       },
       {
-        "@id": "_:nf645e7794bc546289fc545b01ad5a527b1"
+        "@id": "_:nf2226d85814a44f192f65ade79d42b39b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "@id": "_:nf645e7794bc546289fc545b01ad5a527b1",
+    "@id": "_:nf2226d85814a44f192f65ade79d42b39b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -82,13 +82,13 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]

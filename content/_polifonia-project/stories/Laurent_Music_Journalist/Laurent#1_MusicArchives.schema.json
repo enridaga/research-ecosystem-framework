@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Laurent",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Laurent#1_MusicArchives",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Story",
@@ -34,12 +40,6 @@
         "@language": "en",
         "@value": "Music Archives"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Laurent",
-    "@type": [
-      "https://schema.org/ShortStory"
     ]
   },
   {
