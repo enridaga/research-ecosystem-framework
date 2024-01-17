@@ -1,14 +1,26 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-docs",
+    "@type": [
+      "https://schema.org/HowTo"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "https://schema.org/Project"
     ]
   },
   {
@@ -67,7 +79,7 @@
         "@value": "sparql-anything-cli"
       },
       {
-        "@id": "_:n5fa7b97edf874b5c80b8d86e734fdb2db1"
+        "@id": "_:n8c8b8dfe25154e99a29181e37b305d2bb1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -110,7 +122,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n5fa7b97edf874b5c80b8d86e734fdb2db2"
+        "@id": "_:n8c8b8dfe25154e99a29181e37b305d2bb2"
       }
     ],
     "https://schema.org/subjectOf": [
@@ -134,7 +146,7 @@
     ]
   },
   {
-    "@id": "_:n5fa7b97edf874b5c80b8d86e734fdb2db1",
+    "@id": "_:n8c8b8dfe25154e99a29181e37b305d2bb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -150,7 +162,7 @@
     ]
   },
   {
-    "@id": "_:n5fa7b97edf874b5c80b8d86e734fdb2db2",
+    "@id": "_:n8c8b8dfe25154e99a29181e37b305d2bb2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/SPARQL-Anything/sparql.anything/releases/tag/v0.8.1"
@@ -168,25 +180,13 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-tutorials",
-    "@type": [
-      "https://schema.org/HowTo"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-docs",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-tutorials",
     "@type": [
       "https://schema.org/HowTo"
     ]
@@ -198,15 +198,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
-      "https://schema.org/Project"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

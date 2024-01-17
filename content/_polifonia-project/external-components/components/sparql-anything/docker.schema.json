@@ -6,19 +6,13 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
@@ -58,7 +52,7 @@
         "@value": "sparql-anything-docker"
       },
       {
-        "@id": "_:n63261e27c3a14c2f861bffd1f54f2a7db1"
+        "@id": "_:nf7c71794cc4e49ae8b3a6177fb06e13bb1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -95,7 +89,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n63261e27c3a14c2f861bffd1f54f2a7db2"
+        "@id": "_:nf7c71794cc4e49ae8b3a6177fb06e13bb2"
       }
     ],
     "https://schema.org/title": [
@@ -106,7 +100,7 @@
     ]
   },
   {
-    "@id": "_:n63261e27c3a14c2f861bffd1f54f2a7db1",
+    "@id": "_:nf7c71794cc4e49ae8b3a6177fb06e13bb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -122,7 +116,7 @@
     ]
   },
   {
-    "@id": "_:n63261e27c3a14c2f861bffd1f54f2a7db2",
+    "@id": "_:nf7c71794cc4e49ae8b3a6177fb06e13bb2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/SPARQL-Anything/sparql.anything/releases/tag/v0.8.1"
@@ -140,9 +134,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
-      "https://schema.org/Project"
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]
