@@ -1,20 +1,32 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/broadcast-concerts-docs-blog",
+    "@type": [
+      "https://schema.org/HowTo"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/William",
     "@type": [
       "https://schema.org/ShortStory"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Interlink",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/broadcast-concerts-docs-melody",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "https://schema.org/HowTo"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/broadcast-concerts-docs-blog",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/HowTo"
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -63,7 +75,7 @@
         "@value": "broadcast-concerts-knowledge-graph"
       },
       {
-        "@id": "_:n3ddb3dfbfaa44408a9b16927099de956b1"
+        "@id": "_:nbb655a286b6d4907b39f4fe0abef90cab1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -104,7 +116,7 @@
     ]
   },
   {
-    "@id": "_:n3ddb3dfbfaa44408a9b16927099de956b1",
+    "@id": "_:nbb655a286b6d4907b39f4fe0abef90cab1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -120,21 +132,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Interlink",
     "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/broadcast-concerts-docs-melody",
-    "@type": [
-      "https://schema.org/HowTo"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

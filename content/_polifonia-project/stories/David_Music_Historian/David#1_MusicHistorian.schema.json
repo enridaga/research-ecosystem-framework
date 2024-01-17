@@ -1,14 +1,26 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
@@ -18,7 +30,7 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
@@ -61,18 +73,6 @@
         "@language": "en",
         "@value": "Music Historian"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

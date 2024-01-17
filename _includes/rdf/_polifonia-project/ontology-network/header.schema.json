@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -12,7 +12,13 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -107,7 +113,7 @@
         "@value": "https://w3id.org/polifonia/ontology/ontology-network/"
       },
       {
-        "@id": "_:n43adf437c93f4088bd22da088988491db1"
+        "@id": "_:na88e0478499e4f43beb26e4a9c410346b1"
       }
     ],
     "https://schema.org/image": [
@@ -165,7 +171,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n43adf437c93f4088bd22da088988491db2"
+        "@id": "_:na88e0478499e4f43beb26e4a9c410346b2"
       }
     ],
     "https://schema.org/subjectOf": [
@@ -189,7 +195,7 @@
     ]
   },
   {
-    "@id": "_:n43adf437c93f4088bd22da088988491db1",
+    "@id": "_:na88e0478499e4f43beb26e4a9c410346b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -205,7 +211,7 @@
     ]
   },
   {
-    "@id": "_:n43adf437c93f4088bd22da088988491db2",
+    "@id": "_:na88e0478499e4f43beb26e4a9c410346b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/ontology-network/releases"
@@ -223,31 +229,19 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://github.com/polifonia-project/ontology-network",
-    "@type": [
-      "https://schema.org/HowTo"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://github.com/polifonia-project/ontology-network",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "https://schema.org/HowTo"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -259,13 +253,7 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -277,9 +265,21 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   }
 ]

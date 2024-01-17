@@ -1,5 +1,17 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
@@ -63,18 +75,6 @@
       {
         "@value": "meetups-corpus"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

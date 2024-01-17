@@ -1,26 +1,8 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Keoma",
-    "@type": [
-      "https://schema.org/ShortStory"
     ]
   },
   {
@@ -78,6 +60,24 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Keoma",
+    "@type": [
+      "https://schema.org/ShortStory"
     ]
   }
 ]

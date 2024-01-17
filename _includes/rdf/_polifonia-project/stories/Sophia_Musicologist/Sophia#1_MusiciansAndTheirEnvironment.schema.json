@@ -46,9 +46,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophia",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
     "@type": [
-      "https://schema.org/ShortStory"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -58,9 +58,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophia",
     "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "https://schema.org/ShortStory"
     ]
   }
 ]

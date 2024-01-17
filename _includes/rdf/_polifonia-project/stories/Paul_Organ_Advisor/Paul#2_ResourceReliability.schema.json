@@ -6,12 +6,6 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Paul#2_ResourceReliability",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Story",
@@ -55,13 +49,19 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]

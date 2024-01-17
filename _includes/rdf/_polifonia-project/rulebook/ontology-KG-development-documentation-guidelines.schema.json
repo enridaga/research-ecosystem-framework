@@ -1,18 +1,6 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -79,7 +67,19 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]

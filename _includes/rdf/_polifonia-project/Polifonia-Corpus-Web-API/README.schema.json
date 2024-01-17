@@ -34,7 +34,7 @@
         "@value": "Polifonia-Corpus-Web-API"
       },
       {
-        "@id": "_:n9fcd21b364f540a59874c6a6e51490fbb1"
+        "@id": "_:n576806a8fc034fa1966fe77d218c8392b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "@id": "_:n9fcd21b364f540a59874c6a6e51490fbb1",
+    "@id": "_:n576806a8fc034fa1966fe77d218c8392b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -84,15 +84,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   }
 ]
