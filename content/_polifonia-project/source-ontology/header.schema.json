@@ -6,15 +6,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sonia",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
+      "https://schema.org/ShortStory"
     ]
   },
   {
@@ -65,7 +59,7 @@
         "@value": "https://w3id.org/polifonia/ontology/source/"
       },
       {
-        "@id": "_:n511cf1b9f5c44eb9a274e47ae2928580b1"
+        "@id": "_:n56520b48738c4c6991dd21ac8121bf6db1"
       }
     ],
     "https://schema.org/image": [
@@ -123,7 +117,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n511cf1b9f5c44eb9a274e47ae2928580b2"
+        "@id": "_:n56520b48738c4c6991dd21ac8121bf6db2"
       }
     ],
     "https://schema.org/title": [
@@ -139,7 +133,7 @@
     ]
   },
   {
-    "@id": "_:n511cf1b9f5c44eb9a274e47ae2928580b1",
+    "@id": "_:n56520b48738c4c6991dd21ac8121bf6db1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -155,7 +149,7 @@
     ]
   },
   {
-    "@id": "_:n511cf1b9f5c44eb9a274e47ae2928580b2",
+    "@id": "_:n56520b48738c4c6991dd21ac8121bf6db2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/source-ontology"
@@ -173,13 +167,25 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
     "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sonia",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Keoma",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Carolina",
     "@type": [
       "https://schema.org/ShortStory"
     ]
@@ -191,15 +197,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Carolina",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Keoma",
-    "@type": [
-      "https://schema.org/ShortStory"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]
