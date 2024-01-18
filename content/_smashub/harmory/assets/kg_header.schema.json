@@ -6,6 +6,12 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Harmory",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/KnowledgeGraph",
@@ -59,7 +65,7 @@
         "@value": "Harmory"
       },
       {
-        "@id": "_:nd24312c2f44a431581ca62664269b5d7b1"
+        "@id": "_:naf79fc5b4f59436ca3f45908c8ccb095b1"
       }
     ],
     "https://schema.org/image": [
@@ -93,7 +99,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:nd24312c2f44a431581ca62664269b5d7b2"
+        "@id": "_:naf79fc5b4f59436ca3f45908c8ccb095b2"
       }
     ],
     "https://schema.org/title": [
@@ -114,7 +120,7 @@
     ]
   },
   {
-    "@id": "_:nd24312c2f44a431581ca62664269b5d7b1",
+    "@id": "_:naf79fc5b4f59436ca3f45908c8ccb095b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -130,7 +136,7 @@
     ]
   },
   {
-    "@id": "_:nd24312c2f44a431581ca62664269b5d7b2",
+    "@id": "_:naf79fc5b4f59436ca3f45908c8ccb095b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/smashub/harmory"
@@ -151,12 +157,6 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
     ]
   }
 ]

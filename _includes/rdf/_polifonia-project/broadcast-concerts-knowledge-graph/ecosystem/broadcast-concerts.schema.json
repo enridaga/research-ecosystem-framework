@@ -1,14 +1,8 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/broadcast-concerts-docs-blog",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/HowTo"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/William",
-    "@type": [
-      "https://schema.org/ShortStory"
+      "https://schema.org/Project"
     ]
   },
   {
@@ -18,15 +12,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/William",
     "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "https://schema.org/ShortStory"
     ]
   },
   {
@@ -75,7 +63,7 @@
         "@value": "broadcast-concerts-knowledge-graph"
       },
       {
-        "@id": "_:nbb655a286b6d4907b39f4fe0abef90cab1"
+        "@id": "_:n1a2d071ee8284872a7ce62187ad0d650b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -116,7 +104,7 @@
     ]
   },
   {
-    "@id": "_:nbb655a286b6d4907b39f4fe0abef90cab1",
+    "@id": "_:n1a2d071ee8284872a7ce62187ad0d650b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -135,6 +123,18 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Interlink",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/broadcast-concerts-docs-blog",
+    "@type": [
+      "https://schema.org/HowTo"
     ]
   }
 ]

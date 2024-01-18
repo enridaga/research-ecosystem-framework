@@ -1,11 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Mark",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/https://w3id.org/polifonia/ontology/tunes/",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -53,7 +47,7 @@
         "@value": "https://w3id.org/polifonia/ontology/tunes/"
       },
       {
-        "@id": "_:nd19c48b8bc14436fb8cc62269f1bcabdb1"
+        "@id": "_:n330c87907d704cd39a5ffd506c7b7b1cb1"
       }
     ],
     "https://schema.org/image": [
@@ -90,7 +84,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:nd19c48b8bc14436fb8cc62269f1bcabdb2"
+        "@id": "_:n330c87907d704cd39a5ffd506c7b7b1cb2"
       }
     ],
     "https://schema.org/title": [
@@ -106,7 +100,7 @@
     ]
   },
   {
-    "@id": "_:nd19c48b8bc14436fb8cc62269f1bcabdb1",
+    "@id": "_:n330c87907d704cd39a5ffd506c7b7b1cb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -122,7 +116,7 @@
     ]
   },
   {
-    "@id": "_:nd19c48b8bc14436fb8cc62269f1bcabdb2",
+    "@id": "_:n330c87907d704cd39a5ffd506c7b7b1cb2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/ontology-network/releases"
@@ -140,6 +134,12 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
@@ -152,9 +152,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Mark",
     "@type": [
-      "https://schema.org/Project"
+      "https://schema.org/ShortStory"
     ]
   }
 ]
