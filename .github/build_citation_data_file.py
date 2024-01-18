@@ -27,7 +27,7 @@ for root, dirs, files in os.walk(directory):
         #    os.makedirs(pth)
         if not os.path.exists(pth_includes):
             os.makedirs(pth_includes)
-        d = engine.select(q='./github/component-citation.sparql', v={'componentFile': location}) #
+        d = engine.select(q='.github/component-citation.sparql', v={'componentFile': location}) #
         if len(d['results']['bindings']) == 0 or 'component' not in d['results']['bindings'][0]:
             continue
         component = d['results']['bindings'][0]['component']['value']
