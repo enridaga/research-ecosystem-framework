@@ -1,11 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/harmory-software",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Software",
@@ -59,7 +53,7 @@
         "@value": "harmory-software"
       },
       {
-        "@id": "_:n7f61bb29161a40d4bb4e312a38dec179b1"
+        "@id": "_:ne4aaf4e9e7224d6d85065e67a3924393b1"
       }
     ],
     "https://schema.org/image": [
@@ -93,7 +87,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n7f61bb29161a40d4bb4e312a38dec179b2"
+        "@id": "_:ne4aaf4e9e7224d6d85065e67a3924393b2"
       }
     ],
     "https://schema.org/title": [
@@ -114,7 +108,7 @@
     ]
   },
   {
-    "@id": "_:n7f61bb29161a40d4bb4e312a38dec179b1",
+    "@id": "_:ne4aaf4e9e7224d6d85065e67a3924393b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -130,7 +124,7 @@
     ]
   },
   {
-    "@id": "_:n7f61bb29161a40d4bb4e312a38dec179b2",
+    "@id": "_:ne4aaf4e9e7224d6d85065e67a3924393b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/smashub/harmory"
@@ -145,6 +139,12 @@
       {
         "@value": "01-02-2023"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {

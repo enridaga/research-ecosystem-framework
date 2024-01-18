@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
       "https://schema.org/Project"
@@ -9,12 +15,6 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -39,7 +39,7 @@
         "@value": "pitchcontext"
       },
       {
-        "@id": "_:nc84cb257944e477fb9e4db6cbc6af165b1"
+        "@id": "_:n9dd82bdb6045407db80210720e144f03b1"
       }
     ],
     "https://schema.org/image": [
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "@id": "_:nc84cb257944e477fb9e4db6cbc6af165b1",
+    "@id": "_:n9dd82bdb6045407db80210720e144f03b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],

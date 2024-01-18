@@ -35,6 +35,14 @@ clef-software:
     min fix UI (template creation)}, publisher={Zenodo}, author={Marilenadaquino},
     year={2023}, month={May} }'
   id: clef-software
+documentary-evidence-benchmark:
+  apa: Daga, E. (2022). <i>polifonia-project/documentary-evidence-benchmark:</i> (Version
+    v1.1) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.6866982
+  bibtex: ' @book{daga_2022, title={polifonia-project/documentary-evidence-benchmark:},
+    url={https://zenodo.org/record/6866982}, DOI={10.5281/ZENODO.6866982}, abstractNote={Minor
+    changes to metadata, licence changed to Apache 2.0}, publisher={Zenodo}, author={Daga,
+    Enrico}, year={2022}, month={Jul} }'
+  id: documentary-evidence-benchmark
 harmory-software:
   apa: 'De Berardinis, J., &amp; Poltronieri, A. (2023). <i>Harmory: the Harmonic
     Memory</i> (Version v1.0) [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.8021211'

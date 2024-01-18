@@ -2,17 +2,20 @@
   {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/documentary-evidence-benchmark",
     "@type": [
-      "https://reeco-framework.github.io/ecosystem/entity/Dataset",
-      "http://purl.org/cerif/frapo/MaterialOutput"
+      "http://purl.org/cerif/frapo/MaterialOutput",
+      "https://reeco-framework.github.io/ecosystem/entity/Dataset"
     ],
     "https://schema.org/creditText": [
       {
-        "@id": "http://sparql.xyz/facade-x/data/011d9762c1a345e03ae82d9f46be9ab1#/credits"
+        "@id": "http://sparql.xyz/facade-x/data/331c29e7171da64a0fbb0b7c03013f26#/credits"
       }
     ],
     "https://schema.org/identifier": [
       {
         "@value": "documentary-evidence-benchmark"
+      },
+      {
+        "@id": "_:n8ddcfab7933741899bf91f6c81d1f897b1"
       }
     ],
     "https://schema.org/isPartOf": [
@@ -20,10 +23,10 @@
         "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4"
       },
       {
-        "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD"
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1"
       },
       {
-        "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1"
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD"
       }
     ],
     "https://schema.org/license": [
@@ -39,9 +42,19 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@id": "_:n8ddcfab7933741899bf91f6c81d1f897b1",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "https://schema.org/PropertyValue"
+    ],
+    "https://schema.org/PropertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "https://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.6866982"
+      }
     ]
   },
   {
@@ -54,6 +67,12 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

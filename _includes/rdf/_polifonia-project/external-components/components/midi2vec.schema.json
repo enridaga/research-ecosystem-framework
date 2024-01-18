@@ -1,11 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/midi2vec",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/SoftwareLibrary",
@@ -39,7 +33,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n471ae09dd1f247709eeffa12b7a503e9b1"
+        "@id": "_:n6af53281f6484f22ac80a7e5bfc24f11b1"
       }
     ],
     "https://schema.org/title": [
@@ -50,7 +44,7 @@
     ]
   },
   {
-    "@id": "_:n471ae09dd1f247709eeffa12b7a503e9b1",
+    "@id": "_:n6af53281f6484f22ac80a7e5bfc24f11b1",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/midi-ld/midi2vec/releases/tag/v0.0.1"
@@ -65,6 +59,12 @@
       {
         "@value": "01/2022"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

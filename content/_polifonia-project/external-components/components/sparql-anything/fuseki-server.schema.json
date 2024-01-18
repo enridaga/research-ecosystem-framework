@@ -1,17 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-docs",
-    "@type": [
-      "https://schema.org/HowTo"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-tutorials",
-    "@type": [
-      "https://schema.org/HowTo"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-server",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/WebApplication",
@@ -65,7 +53,7 @@
         "@value": "sparql-anything-server"
       },
       {
-        "@id": "_:n5be38b76f2ab4cd6ab2386b16dbc586bb1"
+        "@id": "_:nacbdd4168ddc469ebe9fa8375499e0a5b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -85,7 +73,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n5be38b76f2ab4cd6ab2386b16dbc586bb2"
+        "@id": "_:nacbdd4168ddc469ebe9fa8375499e0a5b2"
       }
     ],
     "https://schema.org/subjectOf": [
@@ -114,7 +102,7 @@
     ]
   },
   {
-    "@id": "_:n5be38b76f2ab4cd6ab2386b16dbc586bb1",
+    "@id": "_:nacbdd4168ddc469ebe9fa8375499e0a5b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -130,7 +118,7 @@
     ]
   },
   {
-    "@id": "_:n5be38b76f2ab4cd6ab2386b16dbc586bb2",
+    "@id": "_:nacbdd4168ddc469ebe9fa8375499e0a5b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/SPARQL-Anything/sparql.anything/releases/tag/v0.8.1"
@@ -145,6 +133,18 @@
       {
         "@value": "2022/12/18"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-tutorials",
+    "@type": [
+      "https://schema.org/HowTo"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/sparql-anything-docs",
+    "@type": [
+      "https://schema.org/HowTo"
     ]
   }
 ]
