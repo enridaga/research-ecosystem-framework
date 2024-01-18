@@ -24,7 +24,7 @@ for root, dirs, files in os.walk(directory):
             os.makedirs(pth)
         if not os.path.exists(pth_includes):
             os.makedirs(pth_includes)
-        g = engine.construct(q='./components-to-rdf.sparql', v={'componentFile': location, 'namespace': namespace}) #
+        g = engine.construct(q='./github/components-to-rdf.sparql', v={'componentFile': location, 'namespace': namespace}) #
         f = open(output, 'w')
         f.write(g.serialize(format='json-ld'))
         f1 = open(output_includes, 'w')
