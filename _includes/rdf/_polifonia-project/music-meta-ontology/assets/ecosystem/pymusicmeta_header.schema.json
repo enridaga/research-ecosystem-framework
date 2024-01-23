@@ -1,26 +1,14 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://w3id.org/polifonia/ontology/music-meta/",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "https://schema.org/HowTo"
     ]
   },
   {
@@ -30,7 +18,7 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -80,7 +68,7 @@
         "@value": "pymusicmeta"
       },
       {
-        "@id": "_:n14296b45dc424bd581f185970fb8142db1"
+        "@id": "_:n76f871ef639740ea9907ed66fe85159db1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -120,7 +108,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n14296b45dc424bd581f185970fb8142db2"
+        "@id": "_:n76f871ef639740ea9907ed66fe85159db2"
       }
     ],
     "https://schema.org/subjectOf": [
@@ -141,7 +129,7 @@
     ]
   },
   {
-    "@id": "_:n14296b45dc424bd581f185970fb8142db1",
+    "@id": "_:n76f871ef639740ea9907ed66fe85159db1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -157,7 +145,7 @@
     ]
   },
   {
-    "@id": "_:n14296b45dc424bd581f185970fb8142db2",
+    "@id": "_:n76f871ef639740ea9907ed66fe85159db2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/music-meta-ontology"
@@ -175,9 +163,21 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://w3id.org/polifonia/ontology/music-meta/",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
     "@type": [
-      "https://schema.org/HowTo"
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   }
 ]

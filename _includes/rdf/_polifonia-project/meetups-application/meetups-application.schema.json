@@ -1,5 +1,35 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/David",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/meetups-application",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/WebApplication",
@@ -47,7 +77,7 @@
         "@value": "meetups-application"
       },
       {
-        "@id": "_:n153d0bfcb7924f27bfb17aa00fd300ceb1"
+        "@id": "_:n5da5ce9b95fd4fcaa3dbdc15828f1490b1"
       }
     ],
     "https://schema.org/image": [
@@ -92,7 +122,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n153d0bfcb7924f27bfb17aa00fd300ceb2"
+        "@id": "_:n5da5ce9b95fd4fcaa3dbdc15828f1490b2"
       }
     ],
     "https://schema.org/title": [
@@ -113,7 +143,7 @@
     ]
   },
   {
-    "@id": "_:n153d0bfcb7924f27bfb17aa00fd300ceb1",
+    "@id": "_:n5da5ce9b95fd4fcaa3dbdc15828f1490b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -129,7 +159,7 @@
     ]
   },
   {
-    "@id": "_:n153d0bfcb7924f27bfb17aa00fd300ceb2",
+    "@id": "_:n5da5ce9b95fd4fcaa3dbdc15828f1490b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/meetups-application/releases"
@@ -150,36 +180,6 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/David",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
-    "@type": [
-      "https://schema.org/ShortStory"
     ]
   }
 ]

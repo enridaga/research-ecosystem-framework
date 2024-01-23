@@ -1,5 +1,17 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/David",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/meetups-knowledge-graph",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/KnowledgeGraph",
@@ -55,7 +67,7 @@
         "@value": "meetups-knowledge-graph"
       },
       {
-        "@id": "_:nc0f6eb2c74cf4a4ba37e4045c72622f5b1"
+        "@id": "_:n004405820f764fdda1c12c3bcd00cd41b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -109,7 +121,7 @@
     ]
   },
   {
-    "@id": "_:nc0f6eb2c74cf4a4ba37e4045c72622f5b1",
+    "@id": "_:n004405820f764fdda1c12c3bcd00cd41b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -125,25 +137,7 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/David",
     "@type": [
       "https://schema.org/ShortStory"
     ]
@@ -155,9 +149,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/ShortStory"
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

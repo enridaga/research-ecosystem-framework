@@ -1,8 +1,8 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
-      "https://schema.org/Project"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -62,7 +62,7 @@
         "@value": "musow-dataset"
       },
       {
-        "@id": "_:n052fc434d0b34078810567ea146ada98b1"
+        "@id": "_:n4936116dcce245af892fa1a3b7d41045b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -93,7 +93,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n052fc434d0b34078810567ea146ada98b2"
+        "@id": "_:n4936116dcce245af892fa1a3b7d41045b2"
       }
     ],
     "https://schema.org/title": [
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "@id": "_:n052fc434d0b34078810567ea146ada98b1",
+    "@id": "_:n4936116dcce245af892fa1a3b7d41045b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "@id": "_:n052fc434d0b34078810567ea146ada98b2",
+    "@id": "_:n4936116dcce245af892fa1a3b7d41045b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/registry_app/releases/tag/v1.0"
@@ -143,15 +143,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Laurent",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/ShortStory"
+      "https://schema.org/Project"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Laurent",
     "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "https://schema.org/ShortStory"
     ]
   }
 ]
