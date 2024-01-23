@@ -1,17 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/meetups-themes",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -51,7 +39,7 @@
         "@value": "meetups-themes"
       },
       {
-        "@id": "_:ncce4bc39dfeb4af6a9e54e499b98fa6fb1"
+        "@id": "_:neb0c3fb540df45a4b28b465135c63a11b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -77,7 +65,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:ncce4bc39dfeb4af6a9e54e499b98fa6fb2"
+        "@id": "_:neb0c3fb540df45a4b28b465135c63a11b2"
       }
     ],
     "https://schema.org/title": [
@@ -96,7 +84,7 @@
     ]
   },
   {
-    "@id": "_:ncce4bc39dfeb4af6a9e54e499b98fa6fb1",
+    "@id": "_:neb0c3fb540df45a4b28b465135c63a11b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -112,7 +100,7 @@
     ]
   },
   {
-    "@id": "_:ncce4bc39dfeb4af6a9e54e499b98fa6fb2",
+    "@id": "_:neb0c3fb540df45a4b28b465135c63a11b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/meetups_pilot/releases/tag/v0.2"
@@ -133,6 +121,18 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]
