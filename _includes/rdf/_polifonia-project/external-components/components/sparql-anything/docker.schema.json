@@ -34,7 +34,7 @@
         "@value": "sparql-anything-docker"
       },
       {
-        "@id": "_:n3bc6e3dcdbe54d0f8ae759d971d41b4cb1"
+        "@id": "_:n1fc95ef4147541e7b85aa1d702b7990ab1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -71,7 +71,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n3bc6e3dcdbe54d0f8ae759d971d41b4cb2"
+        "@id": "_:n1fc95ef4147541e7b85aa1d702b7990ab2"
       }
     ],
     "https://schema.org/title": [
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "@id": "_:n3bc6e3dcdbe54d0f8ae759d971d41b4cb1",
+    "@id": "_:n1fc95ef4147541e7b85aa1d702b7990ab1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "@id": "_:n3bc6e3dcdbe54d0f8ae759d971d41b4cb2",
+    "@id": "_:n1fc95ef4147541e7b85aa1d702b7990ab2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/SPARQL-Anything/sparql.anything/releases/tag/v0.8.1"
@@ -116,15 +116,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
@@ -134,13 +128,19 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]

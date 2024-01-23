@@ -134,24 +134,7 @@ content/_polifonia-project/cometa-ontology/header.md:
       errors:
       - null
 content/_polifonia-project/dashboard/README.md:
-  error:
-  - !!python/object/apply:schema.SchemaError
-    args:
-    - URL cannot be resolved.
-    state:
-      autos:
-      - 'Key ''demo'' error:'
-      - null
-      - null
-      - null
-      - <lambda>('https://projects.dharc.unibo.it/melody/') raised Exception('URL
-        cannot be resolved')
-      errors:
-      - null
-      - null
-      - null
-      - URL cannot be resolved.
-      - null
+  error: []
   warning: []
 content/_polifonia-project/deep-listening/README.md:
   error: []
@@ -459,7 +442,7 @@ content/_polifonia-project/folk_ngram_analysis/README.md:
       autos:
       - 'Key ''licence'' error:'
       - null
-      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fa49238c8b0>))
+      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fc992c26a60>))
         did not validate 'CC_BY_v4'
       - null
       - <lambda>('CC_BY_v4') should evaluate to True
@@ -505,7 +488,7 @@ content/_polifonia-project/folk_ngram_analysis/cre_corpus/README.md:
       autos:
       - 'Key ''licence'' error:'
       - null
-      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fa49238c8b0>))
+      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fc992c26a60>))
         did not validate 'CC_BY_v4'
       - null
       - <lambda>('CC_BY_v4') should evaluate to True
@@ -551,7 +534,7 @@ content/_polifonia-project/folk_ngram_analysis/root_note_detection/README.md:
       autos:
       - 'Key ''licence'' error:'
       - null
-      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fa49238c8b0>))
+      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fc992c26a60>))
         did not validate 'CC_BY_v4'
       - null
       - <lambda>('CC_BY_v4') should evaluate to True
@@ -1161,7 +1144,7 @@ content/_polifonia-project/rulebook/CHAMPIONS.md:
       autos:
       - 'Key ''licence'' error:'
       - null
-      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fa49238c8b0>))
+      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fc992c26a60>))
         did not validate 'CC0'
       - null
       - <lambda>('CC0') should evaluate to True

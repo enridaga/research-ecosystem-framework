@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/meetups-ontology",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Ontology",
@@ -39,7 +45,7 @@
         "@value": "meetups-ontology"
       },
       {
-        "@id": "_:n97077f58e2c34461b82b2335f8769dbab1"
+        "@id": "_:nf4b990cca6ed4d1ebf8d648a51c796feb1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -74,7 +80,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n97077f58e2c34461b82b2335f8769dbab2"
+        "@id": "_:nf4b990cca6ed4d1ebf8d648a51c796feb2"
       }
     ],
     "https://schema.org/title": [
@@ -93,7 +99,7 @@
     ]
   },
   {
-    "@id": "_:n97077f58e2c34461b82b2335f8769dbab1",
+    "@id": "_:nf4b990cca6ed4d1ebf8d648a51c796feb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -109,7 +115,7 @@
     ]
   },
   {
-    "@id": "_:n97077f58e2c34461b82b2335f8769dbab2",
+    "@id": "_:nf4b990cca6ed4d1ebf8d648a51c796feb2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/meetups-ontology/releases/tag/v0.1"
@@ -127,6 +133,12 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/David",
     "@type": [
       "https://schema.org/ShortStory"
@@ -139,27 +151,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
     "@type": [
       "https://schema.org/ShortStory"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "https://schema.org/ShortStory"
     ]
   }
 ]

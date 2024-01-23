@@ -1,23 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/pitchcontext",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/SoftwareLibrary",
@@ -39,7 +21,7 @@
         "@value": "pitchcontext"
       },
       {
-        "@id": "_:n9dd82bdb6045407db80210720e144f03b1"
+        "@id": "_:n9bc8213b38c74a3aaf6b16f6baabae77b1"
       }
     ],
     "https://schema.org/image": [
@@ -82,7 +64,7 @@
     ]
   },
   {
-    "@id": "_:n9dd82bdb6045407db80210720e144f03b1",
+    "@id": "_:n9bc8213b38c74a3aaf6b16f6baabae77b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -95,6 +77,24 @@
       {
         "@value": "10.5281/zenodo.8020644"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

@@ -34,7 +34,7 @@
         "@value": "melody-software"
       },
       {
-        "@id": "_:n67088d1be9af498383e816b098f634e0b1"
+        "@id": "_:nd3b7db0ff5b049c69a9deebb1fb1b29ab1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -57,7 +57,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n67088d1be9af498383e816b098f634e0b2"
+        "@id": "_:nd3b7db0ff5b049c69a9deebb1fb1b29ab2"
       }
     ],
     "https://schema.org/subjectOf": [
@@ -101,7 +101,7 @@
     ]
   },
   {
-    "@id": "_:n67088d1be9af498383e816b098f634e0b1",
+    "@id": "_:nd3b7db0ff5b049c69a9deebb1fb1b29ab1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -117,7 +117,7 @@
     ]
   },
   {
-    "@id": "_:n67088d1be9af498383e816b098f634e0b2",
+    "@id": "_:nd3b7db0ff5b049c69a9deebb1fb1b29ab2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/dashboard/releases/tag/v0.1.1"
@@ -135,9 +135,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/melody-prototypes",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/HowTo"
+      "https://schema.org/Project"
     ]
   },
   {
@@ -147,9 +147,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/melody-prototypes",
     "@type": [
-      "https://schema.org/Project"
+      "https://schema.org/HowTo"
     ]
   }
 ]

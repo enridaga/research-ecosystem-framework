@@ -6,6 +6,42 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Linka",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/https://w3id.org/polifonia/ontology/music-meta/",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -68,7 +104,7 @@
         "@value": "https://w3id.org/polifonia/ontology/music-meta/"
       },
       {
-        "@id": "_:n4a37fb27b5da4ea5ab5a6b2aa42cf200b1"
+        "@id": "_:naa147423aead46d9a38bf15373e5f7adb1"
       }
     ],
     "https://schema.org/image": [
@@ -119,7 +155,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n4a37fb27b5da4ea5ab5a6b2aa42cf200b2"
+        "@id": "_:naa147423aead46d9a38bf15373e5f7adb2"
       }
     ],
     "https://schema.org/title": [
@@ -135,7 +171,7 @@
     ]
   },
   {
-    "@id": "_:n4a37fb27b5da4ea5ab5a6b2aa42cf200b1",
+    "@id": "_:naa147423aead46d9a38bf15373e5f7adb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -151,7 +187,7 @@
     ]
   },
   {
-    "@id": "_:n4a37fb27b5da4ea5ab5a6b2aa42cf200b2",
+    "@id": "_:naa147423aead46d9a38bf15373e5f7adb2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/ontology-network/releases"
@@ -166,42 +202,6 @@
       {
         "@value": "13/04/2023"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Linka",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

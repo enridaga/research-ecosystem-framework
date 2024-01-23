@@ -55,7 +55,7 @@
         "@value": "meetups-knowledge-graph"
       },
       {
-        "@id": "_:ne5bf1292f567470a898d574f5970a82eb1"
+        "@id": "_:nc0f6eb2c74cf4a4ba37e4045c72622f5b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "@id": "_:ne5bf1292f567470a898d574f5970a82eb1",
+    "@id": "_:nc0f6eb2c74cf4a4ba37e4045c72622f5b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -122,6 +122,24 @@
       {
         "@value": "10.5281/zenodo.7924618"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   },
   {
@@ -140,24 +158,6 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
     "@type": [
       "https://schema.org/ShortStory"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

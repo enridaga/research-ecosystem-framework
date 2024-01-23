@@ -15,7 +15,7 @@
         "@value": "documentary-evidence-benchmark"
       },
       {
-        "@id": "_:n8ddcfab7933741899bf91f6c81d1f897b1"
+        "@id": "_:n28e35fb42bd0449081c457188183af61b1"
       }
     ],
     "https://schema.org/isPartOf": [
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "@id": "_:n8ddcfab7933741899bf91f6c81d1f897b1",
+    "@id": "_:n28e35fb42bd0449081c457188183af61b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -58,9 +58,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
     "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
@@ -70,9 +70,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

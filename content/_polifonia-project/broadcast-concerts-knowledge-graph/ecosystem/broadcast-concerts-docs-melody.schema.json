@@ -12,12 +12,6 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Interlink",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/broadcast-concerts-docs-melody",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Documentation",
@@ -79,6 +73,12 @@
         "@language": "en",
         "@value": "Broadcast Concerts Data Story"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Interlink",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]
