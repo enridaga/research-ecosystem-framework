@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: Build Ecosystem Website
         id: create-release-milestone
-        uses: reeco-framework/reeco-website-action@master
+        uses: reeco-framework/reeco-website-action@main
         with:
           repositories: repositories.txt
