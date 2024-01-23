@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MusicBo",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/textual-corpus-population",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Repository",
@@ -48,7 +54,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n936c10728ed948baa5e23bc703cebcb0b1"
+        "@id": "_:n5984926fab8e4fb28ae616793180ab85b1"
       }
     ],
     "https://schema.org/title": [
@@ -64,7 +70,7 @@
     ]
   },
   {
-    "@id": "_:n936c10728ed948baa5e23bc703cebcb0b1",
+    "@id": "_:n5984926fab8e4fb28ae616793180ab85b1",
     "https://schema.org/releaseNotes": [
       {
         "@value": "n/a."
@@ -79,12 +85,6 @@
       {
         "@value": "07-12-2021"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MusicBo",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

@@ -6,6 +6,12 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
@@ -15,18 +21,6 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
-    "@type": [
-      "https://schema.org/ShortStory"
     ]
   },
   {
@@ -69,7 +63,7 @@
         "@value": "meetups-ontology"
       },
       {
-        "@id": "_:nac1c3ea657bc47ae914fed31ca05836cb1"
+        "@id": "_:nb47a868dc14d4f5eade6dcafec185997b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -104,7 +98,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:nac1c3ea657bc47ae914fed31ca05836cb2"
+        "@id": "_:nb47a868dc14d4f5eade6dcafec185997b2"
       }
     ],
     "https://schema.org/title": [
@@ -123,7 +117,7 @@
     ]
   },
   {
-    "@id": "_:nac1c3ea657bc47ae914fed31ca05836cb1",
+    "@id": "_:nb47a868dc14d4f5eade6dcafec185997b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -139,7 +133,7 @@
     ]
   },
   {
-    "@id": "_:nac1c3ea657bc47ae914fed31ca05836cb2",
+    "@id": "_:nb47a868dc14d4f5eade6dcafec185997b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/meetups-ontology/releases/tag/v0.1"
@@ -154,6 +148,12 @@
       {
         "@value": "2023/01/13"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
+    "@type": [
+      "https://schema.org/ShortStory"
     ]
   },
   {

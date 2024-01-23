@@ -47,7 +47,7 @@
         "@value": "https://w3id.org/polifonia/ontology/source/"
       },
       {
-        "@id": "_:n1280f361f3e64c848a46df10d65fb2a1b1"
+        "@id": "_:n0aa98979565e4520ad21c7a4b0e9fbf9b1"
       }
     ],
     "https://schema.org/image": [
@@ -105,7 +105,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n1280f361f3e64c848a46df10d65fb2a1b2"
+        "@id": "_:n0aa98979565e4520ad21c7a4b0e9fbf9b2"
       }
     ],
     "https://schema.org/title": [
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "@id": "_:n1280f361f3e64c848a46df10d65fb2a1b1",
+    "@id": "_:n0aa98979565e4520ad21c7a4b0e9fbf9b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -137,7 +137,7 @@
     ]
   },
   {
-    "@id": "_:n1280f361f3e64c848a46df10d65fb2a1b2",
+    "@id": "_:n0aa98979565e4520ad21c7a4b0e9fbf9b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/source-ontology"
@@ -155,13 +155,13 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sonia",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
-      "https://schema.org/ShortStory"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -173,13 +173,7 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Carolina",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sonia",
     "@type": [
       "https://schema.org/ShortStory"
     ]
@@ -191,15 +185,21 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
       "https://schema.org/Project"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Carolina",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "https://schema.org/ShortStory"
     ]
   }
 ]

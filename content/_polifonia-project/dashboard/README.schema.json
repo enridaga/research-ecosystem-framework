@@ -1,17 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/melody-prototypes",
-    "@type": [
-      "https://schema.org/HowTo"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/melody-software",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -46,7 +34,7 @@
         "@value": "melody-software"
       },
       {
-        "@id": "_:n9a3600f938fd4fb1841447ff841bf063b1"
+        "@id": "_:n8ce4dc11bdb7499aa5e0502820d0532eb1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -69,7 +57,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n9a3600f938fd4fb1841447ff841bf063b2"
+        "@id": "_:n8ce4dc11bdb7499aa5e0502820d0532eb2"
       }
     ],
     "https://schema.org/subjectOf": [
@@ -113,7 +101,7 @@
     ]
   },
   {
-    "@id": "_:n9a3600f938fd4fb1841447ff841bf063b1",
+    "@id": "_:n8ce4dc11bdb7499aa5e0502820d0532eb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -129,7 +117,7 @@
     ]
   },
   {
-    "@id": "_:n9a3600f938fd4fb1841447ff841bf063b2",
+    "@id": "_:n8ce4dc11bdb7499aa5e0502820d0532eb2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/dashboard/releases/tag/v0.1.1"
@@ -147,9 +135,21 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/melody-prototypes",
+    "@type": [
+      "https://schema.org/HowTo"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
       "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

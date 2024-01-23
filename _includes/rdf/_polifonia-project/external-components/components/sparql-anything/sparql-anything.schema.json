@@ -1,44 +1,14 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/GA870811",
-    "@type": [
-      "https://schema.org/Grant"
-    ],
-    "https://schema.org/funder": [
-      {
-        "@id": "_:nf36a0eaae6a44a918850c54e6a4d65e4b2"
-      }
-    ]
-  },
-  {
-    "@id": "_:nf36a0eaae6a44a918850c54e6a4d65e4b2",
-    "https://schema.org/name": [
-      {
-        "@value": "European Commission H2020"
-      }
-    ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/h2020"
-      }
     ]
   },
   {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -135,12 +105,12 @@
     ],
     "https://schema.org/funder": [
       {
-        "@id": "_:nf36a0eaae6a44a918850c54e6a4d65e4b1"
+        "@id": "_:n4b635c0ff871438ba699bb11b0b74f47b1"
       }
     ]
   },
   {
-    "@id": "_:nf36a0eaae6a44a918850c54e6a4d65e4b1",
+    "@id": "_:n4b635c0ff871438ba699bb11b0b74f47b1",
     "https://schema.org/name": [
       {
         "@value": "European Commission H2020"
@@ -153,9 +123,39 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/GA870811",
+    "@type": [
+      "https://schema.org/Grant"
+    ],
+    "https://schema.org/funder": [
+      {
+        "@id": "_:n4b635c0ff871438ba699bb11b0b74f47b2"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4b635c0ff871438ba699bb11b0b74f47b2",
+    "https://schema.org/name": [
+      {
+        "@value": "European Commission H2020"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/h2020"
+      }
     ]
   },
   {
@@ -165,9 +165,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]
