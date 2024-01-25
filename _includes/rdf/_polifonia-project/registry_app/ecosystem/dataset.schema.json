@@ -62,7 +62,7 @@
         "@value": "musow-dataset"
       },
       {
-        "@id": "_:n643506b6847b45d6a4542068c8f63eedb1"
+        "@id": "_:nd7757772522c4f7c898247e147a94e9cb1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -93,7 +93,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n643506b6847b45d6a4542068c8f63eedb2"
+        "@id": "_:nd7757772522c4f7c898247e147a94e9cb2"
       }
     ],
     "https://schema.org/title": [
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "@id": "_:n643506b6847b45d6a4542068c8f63eedb1",
+    "@id": "_:nd7757772522c4f7c898247e147a94e9cb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "@id": "_:n643506b6847b45d6a4542068c8f63eedb2",
+    "@id": "_:nd7757772522c4f7c898247e147a94e9cb2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/registry_app/releases/tag/v1.0"
@@ -143,15 +143,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   }
 ]

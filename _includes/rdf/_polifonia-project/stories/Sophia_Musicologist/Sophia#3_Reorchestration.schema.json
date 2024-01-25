@@ -12,6 +12,12 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/To be completed",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophia#3_Reorchestration",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -55,12 +61,6 @@
         "@language": "en",
         "@value": "Reorchestration"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/To be completed",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

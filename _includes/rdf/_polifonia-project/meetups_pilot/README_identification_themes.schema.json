@@ -1,8 +1,8 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -45,7 +45,7 @@
         "@value": "meetups-themes"
       },
       {
-        "@id": "_:nc461b48226314b82a781f942cd10f163b1"
+        "@id": "_:na88abefc103648deb08a9f3ad6148f95b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -71,7 +71,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:nc461b48226314b82a781f942cd10f163b2"
+        "@id": "_:na88abefc103648deb08a9f3ad6148f95b2"
       }
     ],
     "https://schema.org/title": [
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "@id": "_:nc461b48226314b82a781f942cd10f163b1",
+    "@id": "_:na88abefc103648deb08a9f3ad6148f95b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "@id": "_:nc461b48226314b82a781f942cd10f163b2",
+    "@id": "_:na88abefc103648deb08a9f3ad6148f95b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/meetups_pilot/releases/tag/v0.2"
@@ -124,9 +124,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {

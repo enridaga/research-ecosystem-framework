@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Carolina",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/https://w3id.org/polifonia/ontology/source/",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -47,7 +53,7 @@
         "@value": "https://w3id.org/polifonia/ontology/source/"
       },
       {
-        "@id": "_:n0aa98979565e4520ad21c7a4b0e9fbf9b1"
+        "@id": "_:n20b3e81f614046a287117ac52d1c9a7fb1"
       }
     ],
     "https://schema.org/image": [
@@ -105,7 +111,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n0aa98979565e4520ad21c7a4b0e9fbf9b2"
+        "@id": "_:n20b3e81f614046a287117ac52d1c9a7fb2"
       }
     ],
     "https://schema.org/title": [
@@ -121,7 +127,7 @@
     ]
   },
   {
-    "@id": "_:n0aa98979565e4520ad21c7a4b0e9fbf9b1",
+    "@id": "_:n20b3e81f614046a287117ac52d1c9a7fb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -137,7 +143,7 @@
     ]
   },
   {
-    "@id": "_:n0aa98979565e4520ad21c7a4b0e9fbf9b2",
+    "@id": "_:n20b3e81f614046a287117ac52d1c9a7fb2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/source-ontology"
@@ -155,24 +161,6 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Keoma",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Sonia",
     "@type": [
       "https://schema.org/ShortStory"
@@ -185,21 +173,33 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Keoma",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
-      "https://schema.org/Project"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Carolina",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/ShortStory"
+      "https://schema.org/Project"
     ]
   }
 ]

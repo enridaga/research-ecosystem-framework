@@ -1,8 +1,14 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -21,7 +27,7 @@
         "@value": "documentary-evidence-benchmark"
       },
       {
-        "@id": "_:ne0d2ad542758490788ffe3de2accfac3b1"
+        "@id": "_:na038fb8e7e8f4e7baedac1bf4e904c0bb1"
       }
     ],
     "https://schema.org/isPartOf": [
@@ -48,7 +54,7 @@
     ]
   },
   {
-    "@id": "_:ne0d2ad542758490788ffe3de2accfac3b1",
+    "@id": "_:na038fb8e7e8f4e7baedac1bf4e904c0bb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -64,15 +70,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
     "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

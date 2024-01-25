@@ -1,14 +1,14 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/https://github.com/polifonia-project/tonalities_pilot/tree/main/validation/interface",
     "@type": [
       "https://schema.org/Review"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
-      "https://schema.org/Project"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -129,7 +129,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n782f9534541f4724a55214e15714f1e3b1"
+        "@id": "_:n9e6c5e5a077a4632b28af634f99cf9c9b1"
       }
     ],
     "https://schema.org/review": [
@@ -161,7 +161,7 @@
     ]
   },
   {
-    "@id": "_:n782f9534541f4724a55214e15714f1e3b1",
+    "@id": "_:n9e6c5e5a077a4632b28af634f99cf9c9b1",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/tonalities_pilot/tree/main/mockup"
@@ -179,9 +179,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
+      "https://schema.org/Project"
     ]
   }
 ]
