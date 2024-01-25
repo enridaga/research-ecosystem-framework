@@ -21,7 +21,7 @@ reeco:
     validate: true
 # just-the-docs
 #theme: "just-the-docs"
-#logo: "/assets/images/polifonia-black.png"
+logo: "/assets/images/reeco-logo.png"
 # Aux links for the upper right navigation
 aux_links:
   "REECO on Github":
