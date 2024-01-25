@@ -1,12 +1,24 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -18,21 +30,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -42,9 +42,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://github.com/polifonia-project/ontology-network",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
     "@type": [
-      "https://schema.org/HowTo"
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
@@ -137,7 +143,7 @@
         "@value": "https://w3id.org/polifonia/ontology/ontology-network/"
       },
       {
-        "@id": "_:n8e9cd6abb98642faa84df6fcb4fadab4b1"
+        "@id": "_:n27333189c9e94fa08877c356da91b77fb1"
       }
     ],
     "https://schema.org/image": [
@@ -195,7 +201,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n8e9cd6abb98642faa84df6fcb4fadab4b2"
+        "@id": "_:n27333189c9e94fa08877c356da91b77fb2"
       }
     ],
     "https://schema.org/subjectOf": [
@@ -219,7 +225,7 @@
     ]
   },
   {
-    "@id": "_:n8e9cd6abb98642faa84df6fcb4fadab4b1",
+    "@id": "_:n27333189c9e94fa08877c356da91b77fb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -235,7 +241,7 @@
     ]
   },
   {
-    "@id": "_:n8e9cd6abb98642faa84df6fcb4fadab4b2",
+    "@id": "_:n27333189c9e94fa08877c356da91b77fb2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/ontology-network/releases"
@@ -253,31 +259,25 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://github.com/polifonia-project/ontology-network",
+    "@type": [
+      "https://schema.org/HowTo"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]

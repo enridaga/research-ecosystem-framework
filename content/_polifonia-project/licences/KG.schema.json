@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
@@ -35,7 +35,7 @@
         "@value": "licences"
       },
       {
-        "@id": "_:ndbf0ef8dab7a4e1f90d5d72d456a8e01b1"
+        "@id": "_:n80b469ce1aa041849ea2422253ad4839b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "@id": "_:ndbf0ef8dab7a4e1f90d5d72d456a8e01b1",
+    "@id": "_:n80b469ce1aa041849ea2422253ad4839b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]

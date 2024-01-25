@@ -1,29 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://cordis.europa.eu/project/id/101004746",
-    "@type": [
-      "https://schema.org/Grant"
-    ],
-    "https://schema.org/funder": [
-      {
-        "@id": "_:n012004fe8f494cecbda58cebc2df1bf4b1"
-      }
-    ]
-  },
-  {
-    "@id": "_:n012004fe8f494cecbda58cebc2df1bf4b1",
-    "https://schema.org/name": [
-      {
-        "@value": "Horizon 2020 Framework Programme"
-      }
-    ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://cordis.europa.eu/programme/id/H2020-EC"
-      }
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/patterns-knowledge-graph",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Project",
@@ -78,15 +54,39 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
       "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://cordis.europa.eu/project/id/101004746",
+    "@type": [
+      "https://schema.org/Grant"
+    ],
+    "https://schema.org/funder": [
+      {
+        "@id": "_:n70d273b84b0a48cd88a413672da16c0cb1"
+      }
+    ]
+  },
+  {
+    "@id": "_:n70d273b84b0a48cd88a413672da16c0cb1",
+    "https://schema.org/name": [
+      {
+        "@value": "Horizon 2020 Framework Programme"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://cordis.europa.eu/programme/id/H2020-EC"
+      }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]
