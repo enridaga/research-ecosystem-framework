@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/tonalities-app",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -49,12 +55,6 @@
         "@language": "en",
         "@value": "Tonalities"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {

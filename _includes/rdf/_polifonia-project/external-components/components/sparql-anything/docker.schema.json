@@ -1,18 +1,6 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
     ]
@@ -52,7 +40,7 @@
         "@value": "sparql-anything-docker"
       },
       {
-        "@id": "_:n16f71d66df2240008373c34ea2835a04b1"
+        "@id": "_:nf749bc438d8641f69d837138949232b1b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -89,7 +77,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n16f71d66df2240008373c34ea2835a04b2"
+        "@id": "_:nf749bc438d8641f69d837138949232b1b2"
       }
     ],
     "https://schema.org/title": [
@@ -100,7 +88,7 @@
     ]
   },
   {
-    "@id": "_:n16f71d66df2240008373c34ea2835a04b1",
+    "@id": "_:nf749bc438d8641f69d837138949232b1b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -116,7 +104,7 @@
     ]
   },
   {
-    "@id": "_:n16f71d66df2240008373c34ea2835a04b2",
+    "@id": "_:nf749bc438d8641f69d837138949232b1b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/SPARQL-Anything/sparql.anything/releases/tag/v0.8.1"
@@ -134,15 +122,27 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

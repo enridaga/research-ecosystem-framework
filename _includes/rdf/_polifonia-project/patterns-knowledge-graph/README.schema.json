@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/patterns-knowledge-graph",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Project",
@@ -66,12 +72,12 @@
     ],
     "https://schema.org/funder": [
       {
-        "@id": "_:n70d273b84b0a48cd88a413672da16c0cb1"
+        "@id": "_:n9e0e682a837c4fb4a477ba3e44ca0726b1"
       }
     ]
   },
   {
-    "@id": "_:n70d273b84b0a48cd88a413672da16c0cb1",
+    "@id": "_:n9e0e682a837c4fb4a477ba3e44ca0726b1",
     "https://schema.org/name": [
       {
         "@value": "Horizon 2020 Framework Programme"
@@ -81,12 +87,6 @@
       {
         "@value": "https://cordis.europa.eu/programme/id/H2020-EC"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

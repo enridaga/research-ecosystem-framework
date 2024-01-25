@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/meetups-data-cleaning",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -39,7 +45,7 @@
         "@value": "meetups-data-cleaning"
       },
       {
-        "@id": "_:n2b39c981c192438eaa61dc1e058d8c6eb1"
+        "@id": "_:na1eb22ba8ab542e595cae4d122b3d839b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -74,7 +80,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n2b39c981c192438eaa61dc1e058d8c6eb2"
+        "@id": "_:na1eb22ba8ab542e595cae4d122b3d839b2"
       }
     ],
     "https://schema.org/title": [
@@ -85,7 +91,7 @@
     ]
   },
   {
-    "@id": "_:n2b39c981c192438eaa61dc1e058d8c6eb1",
+    "@id": "_:na1eb22ba8ab542e595cae4d122b3d839b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -101,7 +107,7 @@
     ]
   },
   {
-    "@id": "_:n2b39c981c192438eaa61dc1e058d8c6eb2",
+    "@id": "_:na1eb22ba8ab542e595cae4d122b3d839b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/meetups_pilot/releases/tag/v0.2"
@@ -119,19 +125,13 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/David",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
     "@type": [
       "https://schema.org/ShortStory"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/David",
     "@type": [
       "https://schema.org/ShortStory"
     ]
@@ -143,9 +143,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/ShortStory"
+      "https://schema.org/Project"
     ]
   },
   {

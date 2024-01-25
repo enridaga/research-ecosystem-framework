@@ -1,8 +1,14 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
     "@type": [
-      "https://schema.org/Project"
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
+    "@type": [
+      "https://schema.org/ShortStory"
     ]
   },
   {
@@ -12,9 +18,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
     "@type": [
-      "https://schema.org/ShortStory"
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   },
   {
@@ -73,7 +85,7 @@
         "@value": "meetups-knowledge-graph"
       },
       {
-        "@id": "_:naf7fd9ab42fa4fb0aa666deaddb4f6edb1"
+        "@id": "_:n6903ea91170445d58fe946e8f81af45fb1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -127,7 +139,7 @@
     ]
   },
   {
-    "@id": "_:naf7fd9ab42fa4fb0aa666deaddb4f6edb1",
+    "@id": "_:n6903ea91170445d58fe946e8f81af45fb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -140,18 +152,6 @@
       {
         "@value": "10.5281/zenodo.7924618"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
-    "@type": [
-      "https://schema.org/ShortStory"
     ]
   },
   {

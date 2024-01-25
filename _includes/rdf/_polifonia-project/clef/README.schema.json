@@ -1,11 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/clef-software",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -45,7 +39,7 @@
         "@value": "clef-software"
       },
       {
-        "@id": "_:n4b2e683608444fa69c83c76ca1c4bc93b1"
+        "@id": "_:nc3c64f1b3f5b4e3cb480888c1ee05cf1b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -68,7 +62,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n4b2e683608444fa69c83c76ca1c4bc93b2"
+        "@id": "_:nc3c64f1b3f5b4e3cb480888c1ee05cf1b2"
       }
     ],
     "https://schema.org/title": [
@@ -84,7 +78,7 @@
     ]
   },
   {
-    "@id": "_:n4b2e683608444fa69c83c76ca1c4bc93b1",
+    "@id": "_:nc3c64f1b3f5b4e3cb480888c1ee05cf1b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -100,7 +94,7 @@
     ]
   },
   {
-    "@id": "_:n4b2e683608444fa69c83c76ca1c4bc93b2",
+    "@id": "_:nc3c64f1b3f5b4e3cb480888c1ee05cf1b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/clef/releases/tag/v1.0.2"
@@ -121,6 +115,12 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
     ]
   }
 ]
