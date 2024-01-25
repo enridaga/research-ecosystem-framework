@@ -1,26 +1,8 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/101004746",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/Grant"
-    ],
-    "https://schema.org/funder": [
-      {
-        "@id": "_:n375d2411d36b4303ac7b4b9ae8434d17b1"
-      }
-    ]
-  },
-  {
-    "@id": "_:n375d2411d36b4303ac7b4b9ae8434d17b1",
-    "https://schema.org/name": [
-      {
-        "@value": "European Commission"
-      }
-    ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://cordis.europa.eu/project/id/101004746/it"
-      }
+      "https://schema.org/Project"
     ]
   },
   {
@@ -72,9 +54,27 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/101004746",
     "@type": [
-      "https://schema.org/Project"
+      "https://schema.org/Grant"
+    ],
+    "https://schema.org/funder": [
+      {
+        "@id": "_:nda33bdf318bb4ecc9f09a27e1cf22a5db1"
+      }
+    ]
+  },
+  {
+    "@id": "_:nda33bdf318bb4ecc9f09a27e1cf22a5db1",
+    "https://schema.org/name": [
+      {
+        "@value": "European Commission"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://cordis.europa.eu/project/id/101004746/it"
+      }
     ]
   }
 ]

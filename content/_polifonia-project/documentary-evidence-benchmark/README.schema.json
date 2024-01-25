@@ -12,6 +12,12 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/documentary-evidence-benchmark",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -27,7 +33,7 @@
         "@value": "documentary-evidence-benchmark"
       },
       {
-        "@id": "_:na038fb8e7e8f4e7baedac1bf4e904c0bb1"
+        "@id": "_:ndb18984fb8a8448483499509314d0410b1"
       }
     ],
     "https://schema.org/isPartOf": [
@@ -54,7 +60,7 @@
     ]
   },
   {
-    "@id": "_:na038fb8e7e8f4e7baedac1bf4e904c0bb1",
+    "@id": "_:ndb18984fb8a8448483499509314d0410b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -67,12 +73,6 @@
       {
         "@value": "10.5281/zenodo.6866982"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

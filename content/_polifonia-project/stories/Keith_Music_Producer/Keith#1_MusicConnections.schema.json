@@ -6,6 +6,12 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Keith",
+    "@type": [
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Keith#1_MusicConnections",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Story",
@@ -43,12 +49,6 @@
         "@language": "en",
         "@value": "Music Connections"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Keith",
-    "@type": [
-      "https://schema.org/ShortStory"
     ]
   },
   {
