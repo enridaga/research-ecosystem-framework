@@ -52,8 +52,23 @@ layout: default
     {% endif %}
   {% endfor %}
 </table>
-
-
+ {% if site.reeco['validate'] %}
+<div class="reeco-validate">
+  {% assign validation_key = "content/" | append: page.path %}
+  {% if site.data.validation[validation_key] %}
+   {% for message in site.data.validation[validation_key] %}
+    {% assign message_type = message[0] %}
+    {% for message_content in message[1] %}
+  <p class="reeco-message"><span class="material-symbols-outlined">
+     {{message_type}}
+   </span>
+     {{message_content['args'][0]}} ({{message_type}})
+  </p>
+    {% endfor %}
+   {% endfor %}
+  {% endif %}
+ {% endif %}
+</div>
 <!--  <a href="https://github.com/polifonia-project/stories/blob/main/{{ page.id | remove: "/stories/" | replace: "#", "%23"}}.md">View this file on Github</a> -->
 
 {% assign ghLinkParts = page.id | split: "/" %}
@@ -63,7 +78,6 @@ layout: default
 {% assign repo_arr = page.url | split: "/" %}
 {% assign repo = "" | append: repo_arr[1] | append: '/' | append: repo_arr[2] %}
 {% assign repo_data = site.data.repositories | where_exp: "item", "item.repo == repo" | first %}
-
 {% assign raw_link = repo_data.raw_link %}
 {% capture ghLink %}{{ repo_data.link }}{{ ghLinkAfter }}{% endcapture %}
   <a href="{{ ghLink | replace: "#", "%23"}}.md">View this file on Github</a>
