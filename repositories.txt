@@ -1,5 +1,5 @@
-reeco-framework/reeco-annotation-schema:main
-reeco-framework/reeco-jekyll:main
-reeco-framework/reeco-website-action:main
-reeco-framework/reeco-web-repo-validator:main
-reeco-framework/reeco-python:main
+reeco-framework/reeco-annotation-schema:branches:main
+reeco-framework/reeco-jekyll:branches:main
+reeco-framework/reeco-website-action:branches:main
+reeco-framework/reeco-web-repo-validator:branches:main
+reeco-framework/reeco-python:branches:main
