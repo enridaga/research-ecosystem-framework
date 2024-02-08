@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://cordis.europa.eu/project/id/101004746",
+    "@type": [
+      "https://schema.org/Grant"
+    ],
+    "https://schema.org/funder": [
+      {
+        "@id": "_:n4127b2b5844a4c76a51183bf0649a451b1"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4127b2b5844a4c76a51183bf0649a451b1",
+    "https://schema.org/name": [
+      {
+        "@value": "Horizon 2020 Framework Programme"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://cordis.europa.eu/programme/id/H2020-EC"
+      }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
+    "@type": [
+      "https://reeco-framework.github.io/ecosystem/entity/Pilot",
+      "https://schema.org/Collection"
+    ],
+    "https://schema.org/abstract": [
+      {
+        "@value": "Making musical performances accessible to people with disabilities"
+      }
+    ],
+    "https://schema.org/creditText": [
+      {
+        "@value": "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N. 101004746."
+      }
+    ],
+    "https://schema.org/funding": [
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/https://cordis.europa.eu/project/id/101004746"
+      }
+    ],
+    "https://schema.org/isPartOf": [
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@language": "en",
+        "@value": "ACCESS: Perceiving music with your body"
+      }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  }
+]
