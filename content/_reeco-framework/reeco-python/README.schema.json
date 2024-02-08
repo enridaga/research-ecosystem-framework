@@ -1,0 +1,52 @@
+[
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-framework",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-python-library",
+    "@type": [
+      "https://reeco-framework.github.io/ecosystem/entity/SoftwareLibrary",
+      "http://purl.org/cerif/frapo/MaterialOutput"
+    ],
+    "https://schema.org/abstract": [
+      {
+        "@language": "en",
+        "@value": "The Python library of the REECO framework."
+      }
+    ],
+    "https://schema.org/creditText": [
+      {
+        "@id": "http://sparql.xyz/facade-x/data/72ec8ca44c96b5275d29eff3e7d11157#/credits"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@value": "https://pypi.org/project/reeco/"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "reeco-python-library"
+      }
+    ],
+    "https://schema.org/isBasedOn": [
+      {
+        "@value": "The Python library of the REECO framework."
+      }
+    ],
+    "https://schema.org/isPartOf": [
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-framework"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@language": "en",
+        "@value": "REECO Python Library"
+      }
+    ]
+  }
+]
