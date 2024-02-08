@@ -1,10 +1,26 @@
-# Polifonia Ecosystem
+# REECO Website
 
-This project is under development. See
-https://polifonia-project.github.io/ecosystem/ for the live version of this website. 
+## Setup and configuration
 
-## Contributing
 
+Configure `repositories.txt` with the info about where to extract reeco annotations. This is an example:
+```bash
+reeco-framwork/reeco-annotation-schema:main
+reeco-framwork/reeco-jekyll:main
+reeco-framwork/reeco-website-action:main
+reeco-framwork/reeco-web-repo-validator:main
+reeco-framwork/reeco-python:main
+```
+
+Commit changes (this should trigger a GH actions that downloads all data and builds the website)
+
+## Need help with this procedure
+
+Open an issue and ask for help!
+
+
+
+## Development
 The website is built with [Jekyll](https://jekyllrb.com/) and hosted on [Github
 pages](https://pages.github.com/). It means that one needs to write the code on
 their machine in a git repository and then push it on Github. Then, Github will
@@ -59,23 +75,4 @@ Then, clone the code from this website in a folder on your computer:
 git clone git@github.com:polifonia-project/ecosystem.git
 
 ```
-
-### Setup REECO
-
-
-Configure `repositories.txt` with the info about where to extract reeco annotations. This is an example:
-```bash
-polifonia-project/rulebook:branches:main
-polifonia-project/external-components:branches:main
-polifonia-project/folk_ngram_analysis:branches:master
-polifonia-project/clef:branches:master
-polifonia-project/registry_app:branches:main
-polifonia-project/lharp:branches:master
-```
-
-Commit changes (this should trigger a GH actions that downloads all data and builds the website)
-
-## Need help with this procedure
-
-Open an issue and ask for help!
 
