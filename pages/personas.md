@@ -7,7 +7,7 @@ permalink: /personas.html
 
 # {{ page.title }}
 
-The Polifonia Ecosystem, from the perspective of the target communities, exemplified by a set of Persona.
+The Research Ecosystem, from the perspective of the target communities, exemplified by a set of Persona.
 
 {% assign children_list = site.documents | where: "type", "Persona" %}
 {% for child in children_list %}
