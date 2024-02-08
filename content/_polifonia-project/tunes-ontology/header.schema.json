@@ -6,6 +6,12 @@
     ]
   },
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Mark",
     "@type": [
       "https://schema.org/ShortStory"
@@ -15,12 +21,6 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
     ]
   },
   {
@@ -71,7 +71,7 @@
         "@value": "https://w3id.org/polifonia/ontology/tunes/"
       },
       {
-        "@id": "_:n4bb110fe7f684a2e9600a86b518704a5b1"
+        "@id": "_:n47bdd6446371421e968902477016475ab1"
       }
     ],
     "https://schema.org/image": [
@@ -108,7 +108,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n4bb110fe7f684a2e9600a86b518704a5b2"
+        "@id": "_:n47bdd6446371421e968902477016475ab2"
       }
     ],
     "https://schema.org/title": [
@@ -124,7 +124,7 @@
     ]
   },
   {
-    "@id": "_:n4bb110fe7f684a2e9600a86b518704a5b1",
+    "@id": "_:n47bdd6446371421e968902477016475ab1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "@id": "_:n4bb110fe7f684a2e9600a86b518704a5b2",
+    "@id": "_:n47bdd6446371421e968902477016475ab2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/ontology-network/releases"

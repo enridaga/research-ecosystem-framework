@@ -12,12 +12,6 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Amy#1_OrganTrends",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Story",
@@ -55,6 +49,12 @@
         "@language": "en",
         "@value": "Organ Trends"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

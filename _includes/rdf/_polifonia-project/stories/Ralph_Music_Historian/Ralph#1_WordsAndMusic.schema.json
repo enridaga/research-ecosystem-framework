@@ -1,11 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ralph",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
@@ -46,6 +40,12 @@
         "@language": "en",
         "@value": "Words and Music"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ralph",
+    "@type": [
+      "https://schema.org/ShortStory"
     ]
   }
 ]

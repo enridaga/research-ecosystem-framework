@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/rulebook",
     "@type": [
       "http://purl.org/cerif/frapo/MaterialOutput",
@@ -54,7 +60,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n052ca0f1ad2b44e5a0382580dd3a97eeb1"
+        "@id": "_:nb10bcd7e10754a809c8e9abfc88353a7b1"
       }
     ],
     "https://schema.org/title": [
@@ -65,7 +71,7 @@
     ]
   },
   {
-    "@id": "_:n052ca0f1ad2b44e5a0382580dd3a97eeb1",
+    "@id": "_:nb10bcd7e10754a809c8e9abfc88353a7b1",
     "https://schema.org/releaseNotes": [
       {
         "@value": "TODO"
@@ -80,12 +86,6 @@
       {
         "@value": "21/04/2022"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

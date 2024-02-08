@@ -1,20 +1,14 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
-    "@type": [
-      "https://schema.org/ShortStory"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Sophie",
     "@type": [
       "https://schema.org/ShortStory"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/David",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/ShortStory"
+      "https://schema.org/Project"
     ]
   },
   {
@@ -24,9 +18,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
-      "https://schema.org/Project"
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
@@ -39,6 +33,11 @@
       {
         "@language": "en",
         "@value": "MEETUPS Knowledge Graph module with data on historical meetups and related to MEETUPS Pilot"
+      }
+    ],
+    "https://schema.org/citation": [
+      {
+        "@value": "Morales Tirado, A., Carvalho, J., Mulholland, P. and Daga, E., 2023. Musical Meetups: a Knowledge Graph approach for Historical Social Network Analysis."
       }
     ],
     "https://schema.org/contributor": [
@@ -59,7 +58,7 @@
     ],
     "https://schema.org/creditText": [
       {
-        "@id": "http://sparql.xyz/facade-x/data/79688c6da0ce3a26db056adf4aad55c3#/credits"
+        "@id": "http://sparql.xyz/facade-x/data/a082a20da168cd9334f872fdc7d9918b#/credits"
       }
     ],
     "https://schema.org/discussionUrl": [
@@ -85,7 +84,7 @@
         "@value": "meetups-knowledge-graph"
       },
       {
-        "@id": "_:n6903ea91170445d58fe946e8f81af45fb1"
+        "@id": "_:n50fd5b9a0aa64d4bb8e54316085ce196b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -139,7 +138,7 @@
     ]
   },
   {
-    "@id": "_:n6903ea91170445d58fe946e8f81af45fb1",
+    "@id": "_:n50fd5b9a0aa64d4bb8e54316085ce196b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -155,9 +154,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Ortenz",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "https://schema.org/ShortStory"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/David",
+    "@type": [
+      "https://schema.org/ShortStory"
     ]
   }
 ]

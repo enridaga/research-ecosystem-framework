@@ -1,11 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/Jorge#1_OrganizeMyLibrary",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Story",
@@ -61,9 +55,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Jorge",
+    "@type": [
+      "https://schema.org/ShortStory"
     ]
   },
   {
@@ -79,9 +79,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Jorge",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
     "@type": [
-      "https://schema.org/ShortStory"
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

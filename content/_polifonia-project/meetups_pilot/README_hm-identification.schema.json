@@ -1,5 +1,23 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/meetups-hm-identification",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Software",
@@ -39,7 +57,7 @@
         "@value": "meetups-hm-identification"
       },
       {
-        "@id": "_:n3c71a70396b348d29f138a97b149a06ab1"
+        "@id": "_:n13e99958a15f4cdcbb4bab927232bae2b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -65,7 +83,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n3c71a70396b348d29f138a97b149a06ab2"
+        "@id": "_:n13e99958a15f4cdcbb4bab927232bae2b2"
       }
     ],
     "https://schema.org/title": [
@@ -90,7 +108,7 @@
     ]
   },
   {
-    "@id": "_:n3c71a70396b348d29f138a97b149a06ab1",
+    "@id": "_:n13e99958a15f4cdcbb4bab927232bae2b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -106,7 +124,7 @@
     ]
   },
   {
-    "@id": "_:n3c71a70396b348d29f138a97b149a06ab2",
+    "@id": "_:n13e99958a15f4cdcbb4bab927232bae2b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/meetups_pilot/releases/tag/v0.2"
@@ -121,24 +139,6 @@
       {
         "@value": "31/08/2023"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Laurent",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
     "@type": [
-      "https://schema.org/ShortStory"
+      "https://schema.org/Project"
     ]
   },
   {
@@ -42,7 +42,7 @@
         "@value": "musow-interface"
       },
       {
-        "@id": "_:n3df87242fb8a4ba2815bc68947a20ce6b1"
+        "@id": "_:n3f1b6959b81444d3b49749cce6088ab5b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -73,7 +73,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n3df87242fb8a4ba2815bc68947a20ce6b2"
+        "@id": "_:n3f1b6959b81444d3b49749cce6088ab5b2"
       }
     ],
     "https://schema.org/supportingData": [
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "@id": "_:n3df87242fb8a4ba2815bc68947a20ce6b1",
+    "@id": "_:n3f1b6959b81444d3b49749cce6088ab5b1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "@id": "_:n3df87242fb8a4ba2815bc68947a20ce6b2",
+    "@id": "_:n3f1b6959b81444d3b49749cce6088ab5b2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/polifonia-project/registry_app/releases/tag/v1.0"
@@ -134,9 +134,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Laurent",
     "@type": [
-      "https://schema.org/Project"
+      "https://schema.org/ShortStory"
     ]
   }
 ]

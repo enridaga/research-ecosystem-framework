@@ -6,9 +6,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Jorge",
     "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
+      "https://schema.org/ShortStory"
     ]
   },
   {
@@ -24,9 +24,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Jorge",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
     "@type": [
-      "https://schema.org/ShortStory"
+      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {

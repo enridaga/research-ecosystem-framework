@@ -6,12 +6,6 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
@@ -30,9 +24,9 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/Anna",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
     "@type": [
-      "https://schema.org/ShortStory"
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -82,6 +76,12 @@
         "@language": "en",
         "@value": "Hearing Music"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/Anna",
+    "@type": [
+      "https://schema.org/ShortStory"
     ]
   }
 ]

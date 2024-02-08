@@ -1,23 +1,5 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/harmory-software",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Software",
@@ -71,7 +53,7 @@
         "@value": "harmory-software"
       },
       {
-        "@id": "_:n2437fba80a484979aebf0dd0cc616ed7b1"
+        "@id": "_:n4fcfc608bf8a4b3183486adee636cbcab1"
       }
     ],
     "https://schema.org/image": [
@@ -105,7 +87,7 @@
     ],
     "https://schema.org/releasedEvent": [
       {
-        "@id": "_:n2437fba80a484979aebf0dd0cc616ed7b2"
+        "@id": "_:n4fcfc608bf8a4b3183486adee636cbcab2"
       }
     ],
     "https://schema.org/title": [
@@ -126,7 +108,7 @@
     ]
   },
   {
-    "@id": "_:n2437fba80a484979aebf0dd0cc616ed7b1",
+    "@id": "_:n4fcfc608bf8a4b3183486adee636cbcab1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
@@ -142,7 +124,7 @@
     ]
   },
   {
-    "@id": "_:n2437fba80a484979aebf0dd0cc616ed7b2",
+    "@id": "_:n4fcfc608bf8a4b3183486adee636cbcab2",
     "https://schema.org/releaseNotes": [
       {
         "@value": "https://github.com/smashub/harmory"
@@ -157,6 +139,24 @@
       {
         "@value": "01-02-2023"
       }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -39,7 +39,7 @@
         "@value": "pitchcontext"
       },
       {
-        "@id": "_:n65499266fae74376817466c4c77ab2f4b1"
+        "@id": "_:n7369d76efc174006b95bb38205181c4eb1"
       }
     ],
     "https://schema.org/image": [
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "@id": "_:n65499266fae74376817466c4c77ab2f4b1",
+    "@id": "_:n7369d76efc174006b95bb38205181c4eb1",
     "@type": [
       "https://schema.org/PropertyValue"
     ],
