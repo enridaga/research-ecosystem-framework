@@ -2,7 +2,6 @@
 
 ## Setup and configuration
 
-
 Configure `repositories.txt` with the info about where to extract reeco annotations. This is an example:
 ```bash
 reeco-framwork/reeco-annotation-schema:main
