@@ -62,23 +62,19 @@ exclude: [ '.git' ]
 collections_dir: content/
 
 collections:
-    polifonia-project:
-        output: true
-    smashub:
+    reeco-framework:
         output: true
 
 defaults:
   - scope:
-      type: polifonia-project
+      type: reeco-framework
     values:
       layout: component
   - scope:
-      #type: project
       path: pages/work-packages
     values:
       identifier: "wppage"
   - scope:
-      #type: project
       path: pages/pilots
     values:
       identifier: "pilotpage"
@@ -110,7 +106,7 @@ just_the_docs:
       button: false
   collections:
     polifonia-project:
-      name: polifonia-project
+      name: reeco-framework
       nav_exclude: true
       search_exclude: false
     # rulebook:
