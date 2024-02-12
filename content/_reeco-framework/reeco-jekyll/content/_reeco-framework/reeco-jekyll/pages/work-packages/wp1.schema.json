@@ -1,12 +1,30 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -18,13 +36,19 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -93,27 +117,15 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
     ]
   },
   {
@@ -123,12 +135,12 @@
     ],
     "https://schema.org/funder": [
       {
-        "@id": "_:nc37c4c47d6fb4b8c809e68f5f03012f8b1"
+        "@id": "_:n8ac6fcff48d44a12b940d22090375b1cb1"
       }
     ]
   },
   {
-    "@id": "_:nc37c4c47d6fb4b8c809e68f5f03012f8b1",
+    "@id": "_:n8ac6fcff48d44a12b940d22090375b1cb1",
     "https://schema.org/name": [
       {
         "@value": "Horizon 2020 Framework Programme"
@@ -138,18 +150,6 @@
       {
         "@value": "https://cordis.europa.eu/programme/id/H2020-EC"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
     ]
   }
 ]

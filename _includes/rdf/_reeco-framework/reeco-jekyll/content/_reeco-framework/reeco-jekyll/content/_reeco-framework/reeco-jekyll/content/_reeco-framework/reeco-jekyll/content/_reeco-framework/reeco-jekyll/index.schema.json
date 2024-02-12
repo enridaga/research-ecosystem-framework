@@ -1,12 +1,18 @@
 [
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -15,48 +21,6 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
     "@type": [
       "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP7",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
     ]
   },
   {
@@ -133,49 +97,7 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://cordis.europa.eu/project/id/101004746",
-    "@type": [
-      "https://schema.org/Grant"
-    ],
-    "https://schema.org/funder": [
-      {
-        "@id": "_:ncb66417fbbb4494aa35485d0590260dcb1"
-      }
-    ]
-  },
-  {
-    "@id": "_:ncb66417fbbb4494aa35485d0590260dcb1",
-    "https://schema.org/name": [
-      {
-        "@value": "Horizon 2020 Framework Programme"
-      }
-    ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://cordis.europa.eu/programme/id/H2020-EC"
-      }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP6",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
-    "@type": [
-      "http://purl.org/cerif/frapo/Investigation"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
     ]
@@ -187,9 +109,51 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP4",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP6",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP2",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP7",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
     ]
   },
   {
@@ -202,6 +166,42 @@
     "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
     "@type": [
       "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP3",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://cordis.europa.eu/project/id/101004746",
+    "@type": [
+      "https://schema.org/Grant"
+    ],
+    "https://schema.org/funder": [
+      {
+        "@id": "_:nf5c3c238e10f4c3c802ea133896b04c4b1"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf5c3c238e10f4c3c802ea133896b04c4b1",
+    "https://schema.org/name": [
+      {
+        "@value": "Horizon 2020 Framework Programme"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://cordis.europa.eu/programme/id/H2020-EC"
+      }
     ]
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@type": [
+      "http://purl.org/spar/fabio/WorkPackage"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/Pilot",
@@ -39,30 +57,18 @@
     ]
   },
   {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
-    "@type": [
-      "https://schema.org/Project"
-    ]
-  },
-  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/https://cordis.europa.eu/project/id/101004746",
     "@type": [
       "https://schema.org/Grant"
     ],
     "https://schema.org/funder": [
       {
-        "@id": "_:n523754eedd4049df8e1a8e4136c34691b1"
+        "@id": "_:n503494ad93064ba683804e256ff5297eb1"
       }
     ]
   },
   {
-    "@id": "_:n523754eedd4049df8e1a8e4136c34691b1",
+    "@id": "_:n503494ad93064ba683804e256ff5297eb1",
     "https://schema.org/name": [
       {
         "@value": "Horizon 2020 Framework Programme"
@@ -72,12 +78,6 @@
       {
         "@value": "https://cordis.europa.eu/programme/id/H2020-EC"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP5",
-    "@type": [
-      "http://purl.org/spar/fabio/WorkPackage"
     ]
   }
 ]
