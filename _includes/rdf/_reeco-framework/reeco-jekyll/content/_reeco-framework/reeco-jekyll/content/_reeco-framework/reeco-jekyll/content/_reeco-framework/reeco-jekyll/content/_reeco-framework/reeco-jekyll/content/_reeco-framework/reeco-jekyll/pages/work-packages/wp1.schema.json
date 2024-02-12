@@ -1,0 +1,155 @@
+[
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/WP1",
+    "@type": [
+      "https://schema.org/Collection",
+      "https://reeco-framework.github.io/ecosystem/entity/WorkPackage"
+    ],
+    "https://schema.org/abstract": [
+      {
+        "@value": "WP1 coordinates Pilots development and delivers a registry of all resources and materials retrieved, used and produced in the project, in the form of a unified Web portal."
+      }
+    ],
+    "https://schema.org/creditText": [
+      {
+        "@value": "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N. 101004746."
+      }
+    ],
+    "https://schema.org/funding": [
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/https://cordis.europa.eu/project/id/101004746"
+      }
+    ],
+    "https://schema.org/isPartOf": [
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/MEETUPS"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/polifonia-project"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/ORGANS"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/FACETS"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/TONALITIES"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/CHILD"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/TUNES"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/BELLS"
+      },
+      {
+        "@id": "https://reeco-framework.github.io/ecosystem/entity/INTERLINK"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@language": "en",
+        "@value": "Work Package #1: Pilots and Web portal"
+      }
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/MUSICBO",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/ACCESS",
+    "@type": [
+      "http://purl.org/cerif/frapo/Investigation"
+    ]
+  },
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/https://cordis.europa.eu/project/id/101004746",
+    "@type": [
+      "https://schema.org/Grant"
+    ],
+    "https://schema.org/funder": [
+      {
+        "@id": "_:n6405c09e17c74c198b427361a10739e2b1"
+      }
+    ]
+  },
+  {
+    "@id": "_:n6405c09e17c74c198b427361a10739e2b1",
+    "https://schema.org/name": [
+      {
+        "@value": "Horizon 2020 Framework Programme"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://cordis.europa.eu/programme/id/H2020-EC"
+      }
+    ]
+  }
+]
