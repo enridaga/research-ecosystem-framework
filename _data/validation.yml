@@ -74,7 +74,26 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/Polifonia-Corpus-Web-API/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-schema/README.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''name'''
+    state:
+      autos:
+      - 'Missing key: ''name'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/Polifonia-Corpus-Web-API/README.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -85,10 +104,10 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/Polifonia-Corpus/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/Polifonia-Corpus/README.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/broadcast-concerts-knowledge-graph/ecosystem/broadcast-concerts-docs-blog.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/broadcast-concerts-knowledge-graph/ecosystem/broadcast-concerts-docs-blog.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -107,7 +126,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/broadcast-concerts-knowledge-graph/ecosystem/broadcast-concerts-docs-melody.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/broadcast-concerts-knowledge-graph/ecosystem/broadcast-concerts-docs-melody.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -126,7 +145,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/broadcast-concerts-knowledge-graph/ecosystem/broadcast-concerts-sparql-endpoint.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/broadcast-concerts-knowledge-graph/ecosystem/broadcast-concerts-sparql-endpoint.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -145,7 +164,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/broadcast-concerts-knowledge-graph/ecosystem/broadcast-concerts.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/broadcast-concerts-knowledge-graph/ecosystem/broadcast-concerts.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -178,10 +197,10 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/clef/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/clef/README.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/cometa-ontology/header.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/cometa-ontology/header.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -209,22 +228,22 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/dashboard/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/dashboard/README.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/deep-listening/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/deep-listening/README.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/documentary-evidence-benchmark/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/documentary-evidence-benchmark/README.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/endpoints/data-open.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/endpoints/data-open.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/led.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/led.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/midi2vec.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/midi2vec.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -348,7 +367,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - null
       - null
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/neuma-search-engine.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/neuma-search-engine.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -383,13 +402,13 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - null
       - null
       - Components should have an associated bibliography
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/ramose.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/ramose.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/command-line.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/command-line.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/docker.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/docker.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -400,7 +419,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/documentation.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/documentation.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -411,7 +430,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/fuseki-server.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/fuseki-server.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -422,7 +441,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/java-source-code.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/java-source-code.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -433,7 +452,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/python-library.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/python-library.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -444,7 +463,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/requirements.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/requirements.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -455,7 +474,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       errors:
       - null
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/sparql-anything.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/sparql-anything.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaError
@@ -472,7 +491,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - null
       - null
       - The activity should have at least one funding organisation.
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/tutorials.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/sparql-anything/tutorials.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -483,7 +502,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/tonalities-app.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/external-components/components/tonalities-app.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -549,7 +568,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - null
       - null
       - Components should have an associated bibliography
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/folk_ngram_analysis/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/folk_ngram_analysis/README.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -560,7 +579,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       autos:
       - 'Key ''licence'' error:'
       - null
-      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fc0950ada60>))
+      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7f9f8b9b9a60>))
         did not validate 'CC_BY_v4'
       - null
       - <lambda>('CC_BY_v4') should evaluate to True
@@ -587,53 +606,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/folk_ngram_analysis/cre_corpus/README.md
-: error:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''description'''
-    state:
-      autos:
-      - 'Missing key: ''description'''
-      errors:
-      - null
-  - !!python/object/apply:schema.SchemaError
-    args:
-    - 'Specify at least one licence from the REECO Annotation Schema reference.
-
-      Licence must be a list of licence codes from the Reeco Annotation Schema reference.'
-    state:
-      autos:
-      - 'Key ''licence'' error:'
-      - null
-      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fc0950ada60>))
-        did not validate 'CC_BY_v4'
-      - null
-      - <lambda>('CC_BY_v4') should evaluate to True
-      errors:
-      - null
-      - null
-      - Specify at least one licence from the REECO Annotation Schema reference.
-      - Specify at least one licence from the REECO Annotation Schema reference.
-      - Licence must be a list of licence codes from the Reeco Annotation Schema reference.
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''related-components'''
-    state:
-      autos:
-      - 'Missing key: ''related-components'''
-      errors:
-      - null
-  warning:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''bibliography'''
-    state:
-      autos:
-      - 'Missing key: ''bibliography'''
-      errors:
-      - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/folk_ngram_analysis/root_note_detection/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/folk_ngram_analysis/cre_corpus/README.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -652,7 +625,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       autos:
       - 'Key ''licence'' error:'
       - null
-      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fc0950ada60>))
+      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7f9f8b9b9a60>))
         did not validate 'CC_BY_v4'
       - null
       - <lambda>('CC_BY_v4') should evaluate to True
@@ -679,7 +652,53 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/instrument-ontology/header.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/folk_ngram_analysis/root_note_detection/README.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''description'''
+    state:
+      autos:
+      - 'Missing key: ''description'''
+      errors:
+      - null
+  - !!python/object/apply:schema.SchemaError
+    args:
+    - 'Specify at least one licence from the REECO Annotation Schema reference.
+
+      Licence must be a list of licence codes from the Reeco Annotation Schema reference.'
+    state:
+      autos:
+      - 'Key ''licence'' error:'
+      - null
+      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7f9f8b9b9a60>))
+        did not validate 'CC_BY_v4'
+      - null
+      - <lambda>('CC_BY_v4') should evaluate to True
+      errors:
+      - null
+      - null
+      - Specify at least one licence from the REECO Annotation Schema reference.
+      - Specify at least one licence from the REECO Annotation Schema reference.
+      - Licence must be a list of licence codes from the Reeco Annotation Schema reference.
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''related-components'''
+    state:
+      autos:
+      - 'Missing key: ''related-components'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/instrument-ontology/header.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -690,7 +709,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/lharp/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/lharp/README.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -825,7 +844,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - null
       - null
       - Components should have an associated bibliography
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/licences/KG.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/licences/KG.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -836,7 +855,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/licences/Pipeline.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/licences/Pipeline.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -847,7 +866,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups-application/meetups-application.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups-application/meetups-application.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -858,13 +877,13 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups-knowledge-graph/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups-knowledge-graph/README.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups-ontology/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups-ontology/README.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups-ui-design/meetups-ui-design.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups-ui-design/meetups-ui-design.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -889,7 +908,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_corpus_collection/README-meetups-corpus.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_corpus_collection/README-meetups-corpus.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -900,7 +919,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_corpus_collection/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_corpus_collection/README.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -911,7 +930,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaError
@@ -928,7 +947,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - null
       - null
       - The activity should have at least one funding organisation.
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_coreference.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_coreference.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -939,7 +958,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_data_cleaning.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_data_cleaning.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -950,7 +969,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_hm-identification.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_hm-identification.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -961,7 +980,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_identification_themes.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_identification_themes.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -972,7 +991,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_people_places_identification.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_people_places_identification.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -983,7 +1002,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_time_expressions.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/meetups_pilot/README_time_expressions.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -994,7 +1013,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/music-meta-ontology/assets/ecosystem/meta_ontology_header.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/music-meta-ontology/assets/ecosystem/meta_ontology_header.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1022,7 +1041,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/music-meta-ontology/assets/ecosystem/pymusicmeta_header.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/music-meta-ontology/assets/ecosystem/pymusicmeta_header.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -1033,7 +1052,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/musicbo-knowledge-graph/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/musicbo-knowledge-graph/README.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1064,7 +1083,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/ontology-network/header.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/ontology-network/header.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1092,7 +1111,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/patterns-knowledge-graph/P2KG-Pipeline/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/patterns-knowledge-graph/P2KG-Pipeline/readme.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1112,7 +1131,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - URL cannot be resolved.
       - null
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/patterns-knowledge-graph/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/patterns-knowledge-graph/README.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaError
@@ -1128,7 +1147,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - null
       - null
       - The activity should have at least one funding organisation.
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/patterns-knowledge-graph/patterns-knowledge-graph-datasets/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/patterns-knowledge-graph/patterns-knowledge-graph-datasets/README.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1148,7 +1167,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - URL cannot be resolved.
       - null
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/pitchcontext/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/pitchcontext/README.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -1159,10 +1178,10 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/polifonia-lexicon/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/polifonia-lexicon/README.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/registry_app/ecosystem/container.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/registry_app/ecosystem/container.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaError
@@ -1178,13 +1197,13 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - null
       - null
       - The activity should have at least one funding organisation.
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/registry_app/ecosystem/dataset.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/registry_app/ecosystem/dataset.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/registry_app/ecosystem/interface.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/registry_app/ecosystem/interface.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/rulebook/CHAMPIONS.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/rulebook/CHAMPIONS.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1195,7 +1214,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       autos:
       - 'Key ''licence'' error:'
       - null
-      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7fc0950ada60>))
+      - Or(And(<class 'str'>, <function Validator.__init__.<locals>.<lambda> at 0x7f9f8b9b9a60>))
         did not validate 'CC0'
       - null
       - <lambda>('CC0') should evaluate to True
@@ -1214,7 +1233,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/rulebook/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/rulebook/README.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1241,7 +1260,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/rulebook/ontology-KG-development-documentation-guidelines.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/rulebook/ontology-KG-development-documentation-guidelines.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1274,7 +1293,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/rulebook/schema.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/rulebook/schema.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -1285,7 +1304,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/source-ontology/header.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/source-ontology/header.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1313,7 +1332,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Amy_Organologist/Amy#1_OrganTrends.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Amy_Organologist/Amy#1_OrganTrends.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1332,7 +1351,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Amy_Organologist/Amy#2_OrganBuilders.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Amy_Organologist/Amy#2_OrganBuilders.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1351,7 +1370,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Amy_Organologist/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Amy_Organologist/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1370,7 +1389,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Andrea_Theology_Scholar/Andrea#1_Serendipity.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Andrea_Theology_Scholar/Andrea#1_Serendipity.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1412,7 +1431,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Andrea_Theology_Scholar/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Andrea_Theology_Scholar/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1431,7 +1450,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Anna_Hearing-impaired/Anna#1_HearingMusic.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Anna_Hearing-impaired/Anna#1_HearingMusic.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1450,7 +1469,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Anna_Hearing-impaired/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Anna_Hearing-impaired/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1469,7 +1488,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Brendan_Traditional_Musician/Brendan#1_FindTraditionalMusic.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Brendan_Traditional_Musician/Brendan#1_FindTraditionalMusic.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1488,7 +1507,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Brendan_Traditional_Musician/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Brendan_Traditional_Musician/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1507,7 +1526,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Carolina_Music_Historian/Carolina#1_SourcesCrossAnalysis.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Carolina_Music_Historian/Carolina#1_SourcesCrossAnalysis.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1526,7 +1545,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Carolina_Music_Historian/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Carolina_Music_Historian/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1545,53 +1564,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/David_Music_Historian/David#1_MusicHistorian.md
-: error:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''description'''
-    state:
-      autos:
-      - 'Missing key: ''description'''
-      errors:
-      - null
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''licence'''
-    state:
-      autos:
-      - 'Missing key: ''licence'''
-      errors:
-      - null
-  warning:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''bibliography'''
-    state:
-      autos:
-      - 'Missing key: ''bibliography'''
-      errors:
-      - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/David_Music_Historian/readme.md
-: error:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''licence'''
-    state:
-      autos:
-      - 'Missing key: ''licence'''
-      errors:
-      - null
-  warning:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''bibliography'''
-    state:
-      autos:
-      - 'Missing key: ''bibliography'''
-      errors:
-      - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Frank_Organist/Frank#1_OrganKnowledge.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/David_Music_Historian/David#1_MusicHistorian.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1618,7 +1591,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Frank_Organist/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/David_Music_Historian/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1637,64 +1610,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/Jorge#1_OrganizeMyLibrary.md
-: error:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''licence'''
-    state:
-      autos:
-      - 'Missing key: ''licence'''
-      errors:
-      - null
-  warning:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''bibliography'''
-    state:
-      autos:
-      - 'Missing key: ''bibliography'''
-      errors:
-      - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/Jorge#2_FindSimilarScores.md
-: error:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''licence'''
-    state:
-      autos:
-      - 'Missing key: ''licence'''
-      errors:
-      - null
-  warning:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''bibliography'''
-    state:
-      autos:
-      - 'Missing key: ''bibliography'''
-      errors:
-      - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/Jorge#3_DynamicExploration.md
-: error:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''licence'''
-    state:
-      autos:
-      - 'Missing key: ''licence'''
-      errors:
-      - null
-  warning:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''bibliography'''
-    state:
-      autos:
-      - 'Missing key: ''bibliography'''
-      errors:
-      - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/Jorge#4_LinkToSources.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Frank_Organist/Frank#1_OrganKnowledge.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1721,7 +1637,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Frank_Organist/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1740,7 +1656,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Keith_Music_Producer/Keith#1_MusicConnections.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/Jorge#1_OrganizeMyLibrary.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1759,7 +1675,110 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Keith_Music_Producer/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/Jorge#2_FindSimilarScores.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''licence'''
+    state:
+      autos:
+      - 'Missing key: ''licence'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/Jorge#3_DynamicExploration.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''licence'''
+    state:
+      autos:
+      - 'Missing key: ''licence'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/Jorge#4_LinkToSources.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''description'''
+    state:
+      autos:
+      - 'Missing key: ''description'''
+      errors:
+      - null
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''licence'''
+    state:
+      autos:
+      - 'Missing key: ''licence'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Jorge_Librarian/readme.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''licence'''
+    state:
+      autos:
+      - 'Missing key: ''licence'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Keith_Music_Producer/Keith#1_MusicConnections.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''licence'''
+    state:
+      autos:
+      - 'Missing key: ''licence'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Keith_Music_Producer/readme.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -1790,7 +1809,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Keoma_Architect/Keoma#1_RestorationAndSoundPractices.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Keoma_Architect/Keoma#1_RestorationAndSoundPractices.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -1801,7 +1820,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Keoma_Architect/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Keoma_Architect/readme.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -1812,7 +1831,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Laurent_Music_Journalist/Laurent#1_MusicArchives.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Laurent_Music_Journalist/Laurent#1_MusicArchives.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1854,7 +1873,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Laurent_Music_Journalist/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Laurent_Music_Journalist/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1873,7 +1892,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Linka_Computer_Scientist/Linka#1_MusicKnowledge.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Linka_Computer_Scientist/Linka#1_MusicKnowledge.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1892,7 +1911,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Linka_Computer_Scientist/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Linka_Computer_Scientist/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1911,7 +1930,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Mark_Computational_Musicologist/Mark#1_FolkMusic.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Mark_Computational_Musicologist/Mark#1_FolkMusic.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1930,7 +1949,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Mark_Computational_Musicologist/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Mark_Computational_Musicologist/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1949,7 +1968,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ortenz_Music_Historian/Ortenz#1_MusicAndChildhood.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ortenz_Music_Historian/Ortenz#1_MusicAndChildhood.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1968,7 +1987,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ortenz_Music_Historian/Ortenz#2_MusicalSocialNetwork.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ortenz_Music_Historian/Ortenz#2_MusicalSocialNetwork.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -1987,7 +2006,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ortenz_Music_Historian/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ortenz_Music_Historian/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2029,7 +2048,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Patrizia_Ethnoanthropologist/Patrizia#1_IdentificationOfIntangibleElements.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Patrizia_Ethnoanthropologist/Patrizia#1_IdentificationOfIntangibleElements.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -2040,7 +2059,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Patrizia_Ethnoanthropologist/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Patrizia_Ethnoanthropologist/readme.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -2051,7 +2070,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Paul_Organ_Advisor/Paul#1_OrganComparison.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Paul_Organ_Advisor/Paul#1_OrganComparison.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2070,7 +2089,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Paul_Organ_Advisor/Paul#2_ResourceReliability.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Paul_Organ_Advisor/Paul#2_ResourceReliability.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2089,7 +2108,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Paul_Organ_Advisor/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Paul_Organ_Advisor/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2131,7 +2150,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ralph_Music_Historian/Ralph#1_WordsAndMusic.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ralph_Music_Historian/Ralph#1_WordsAndMusic.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2150,7 +2169,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ralph_Music_Historian/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Ralph_Music_Historian/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2192,7 +2211,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sethus_Music_Theorist/Sethus#1_ConflictingTheoreticalInterpretations.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sethus_Music_Theorist/Sethus#1_ConflictingTheoreticalInterpretations.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2211,7 +2230,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sethus_Music_Theorist/Sethus#2_CreateRelevantCorpus.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sethus_Music_Theorist/Sethus#2_CreateRelevantCorpus.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2230,7 +2249,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sethus_Music_Theorist/Sethus#3_ConflictingAnalyticalAnnotations.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sethus_Music_Theorist/Sethus#3_ConflictingAnalyticalAnnotations.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2249,7 +2268,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sethus_Music_Theorist/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sethus_Music_Theorist/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2268,7 +2287,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sonia_Playlist_User/Sonia#1_ExplorationMode.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sonia_Playlist_User/Sonia#1_ExplorationMode.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2287,7 +2306,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sonia_Playlist_User/Sonia#2_ShuffleMode.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sonia_Playlist_User/Sonia#2_ShuffleMode.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2306,7 +2325,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sonia_Playlist_User/Sonia#3_StatsMode.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sonia_Playlist_User/Sonia#3_StatsMode.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2325,7 +2344,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sonia_Playlist_User/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sonia_Playlist_User/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2344,7 +2363,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sophia_Musicologist/Sophia#1_MusiciansAndTheirEnvironment.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sophia_Musicologist/Sophia#1_MusiciansAndTheirEnvironment.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2363,7 +2382,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sophia_Musicologist/Sophia#2_OriginsAndForm.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sophia_Musicologist/Sophia#2_OriginsAndForm.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2390,7 +2409,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sophia_Musicologist/Sophia#3_Reorchestration.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sophia_Musicologist/Sophia#3_Reorchestration.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2409,7 +2428,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sophia_Musicologist/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Sophia_Musicologist/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2428,34 +2447,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Valeriana_Linguist/Valeriana#1_DiscourseAnalysis.md
-: error:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''description'''
-    state:
-      autos:
-      - 'Missing key: ''description'''
-      errors:
-      - null
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''licence'''
-    state:
-      autos:
-      - 'Missing key: ''licence'''
-      errors:
-      - null
-  warning:
-  - !!python/object/apply:schema.SchemaMissingKeyError
-    args:
-    - 'Missing key: ''bibliography'''
-    state:
-      autos:
-      - 'Missing key: ''bibliography'''
-      errors:
-      - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Valeriana_Linguist/Valeriana#2_Terminology.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Valeriana_Linguist/Valeriana#1_DiscourseAnalysis.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2482,7 +2474,34 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Valeriana_Linguist/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Valeriana_Linguist/Valeriana#2_Terminology.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''description'''
+    state:
+      autos:
+      - 'Missing key: ''description'''
+      errors:
+      - null
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''licence'''
+    state:
+      autos:
+      - 'Missing key: ''licence'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/Valeriana_Linguist/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2501,7 +2520,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/William_Curator_Europeana/William#1EuropeanFolkMusic.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/William_Curator_Europeana/William#1EuropeanFolkMusic.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2520,7 +2539,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/William_Curator_Europeana/readme.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/stories/William_Curator_Europeana/readme.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError
     args:
@@ -2539,7 +2558,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/textual-corpus-population/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/textual-corpus-population/README.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -2695,10 +2714,10 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - null
       - null
       - Components should have an associated bibliography
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/tonalities_pilot/mockup/mockup.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/tonalities_pilot/mockup/mockup.md
 : error: []
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/tunes-ontology/header.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/tunes-ontology/header.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -2726,7 +2745,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/web_portal/MelodyREADME.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/web_portal/MelodyREADME.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -2737,7 +2756,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/web_portal/README.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_polifonia-project/web_portal/README.md
 : error: []
   warning:
   - !!python/object/apply:schema.SchemaMissingKeyError
@@ -2748,7 +2767,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - 'Missing key: ''bibliography'''
       errors:
       - null
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_smashub/harmory/assets/kg_header.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_smashub/harmory/assets/kg_header.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -2767,7 +2786,7 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - Value must be an HTTP(S) URL
       - null
   warning: []
-? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_smashub/harmory/assets/software_header.md
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_smashub/harmory/assets/software_header.md
 : error:
   - !!python/object/apply:schema.SchemaError
     args:
@@ -2786,6 +2805,97 @@ content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-annotation-
       - Value must be an HTTP(S) URL
       - null
   warning: []
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/index.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''name'''
+    state:
+      autos:
+      - 'Missing key: ''name'''
+      errors:
+      - null
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''has-part'''
+    state:
+      autos:
+      - 'Missing key: ''has-part'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaError
+    args:
+    - The activity should have at least one funding organisation.
+    state:
+      autos:
+      - 'Key ''funder'' error:'
+      - null
+      - 'Or() did not validate {''name'': ''Horizon 2020 Framework Programme'', ''url'':
+        ''https://cordis.europa.eu/programme/id/H2020-EC'', ''grant-agreement'': ''https://cordis.europa.eu/project/id/101004746''}'
+      errors:
+      - null
+      - null
+      - The activity should have at least one funding organisation.
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/pages/pilots/polifonia.md
+: error: []
+  warning:
+  - !!python/object/apply:schema.SchemaError
+    args:
+    - The activity should have at least one funding organisation.
+    state:
+      autos:
+      - 'Key ''funder'' error:'
+      - null
+      - 'Or() did not validate {''name'': ''Horizon 2020 Framework Programme'', ''url'':
+        ''https://cordis.europa.eu/programme/id/H2020-EC'', ''grant-agreement'': ''https://cordis.europa.eu/project/id/101004746''}'
+      errors:
+      - null
+      - null
+      - The activity should have at least one funding organisation.
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/pages/work-packages/wp1.md
+: error: []
+  warning:
+  - !!python/object/apply:schema.SchemaError
+    args:
+    - The activity should have at least one funding organisation.
+    state:
+      autos:
+      - 'Key ''funder'' error:'
+      - null
+      - 'Or() did not validate {''name'': ''Horizon 2020 Framework Programme'', ''url'':
+        ''https://cordis.europa.eu/programme/id/H2020-EC'', ''grant-agreement'': ''https://cordis.europa.eu/project/id/101004746''}'
+      errors:
+      - null
+      - null
+      - The activity should have at least one funding organisation.
+? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-python/README.md
+: error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''licence'''
+    state:
+      autos:
+      - 'Missing key: ''licence'''
+      errors:
+      - null
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''related-components'''
+    state:
+      autos:
+      - 'Missing key: ''related-components'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
 ? content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/content/_reeco-framework/reeco-jekyll/index.md
 : error:
   - !!python/object/apply:schema.SchemaMissingKeyError

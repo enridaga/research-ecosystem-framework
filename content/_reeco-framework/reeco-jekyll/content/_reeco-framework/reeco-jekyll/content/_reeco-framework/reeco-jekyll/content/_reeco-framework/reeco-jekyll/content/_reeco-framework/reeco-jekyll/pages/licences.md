@@ -1,0 +1,67 @@
+---
+layout: default
+title: Licences
+nav_order: 20
+permalink: /licences.html
+---
+
+# {% raw %}{% raw %}{% raw %}{% raw %}{% raw %}{{{% endraw %}{% endraw %}{% endraw %}{% endraw %}{% endraw %} page.title }}
+
+The Polifonia Ecosystem components, grouped by licences.
+
+
+<div id="chart_container_software"></div>
+<script>
+anychart.onDocumentReady(function() {
+    // set the data
+    var data = [
+        {x: "Apache 2.0", value: 12},
+        {x: "CC0 Universal ", value: 2},
+        {x: "CC Attribution", value: 9},
+        {x: "CC Attribution-NonCommercial", value: 1},
+        {x: "ISC License", value: 1}
+    ];
+    // create the chart
+    var chart = anychart.pie3d();
+    // set the chart title
+    // chart.title("Polifonia Project Components by Type");
+    // add the data
+    chart.data(data);
+    // sort elements
+    chart.sort("desc");  
+    // set legend position
+    chart.legend().position("right");
+    // set items layout
+    chart.legend().itemsLayout("vertical");
+    // display the chart in the container
+    chart.container('chart_container_software');
+    chart.draw();
+  });
+  </script>
+
+
+
+
+{% assign licences = site.data.licences |sort: 'title' %}
+
+{% for licence in licences %}
+  {% assign comps = site.documents  | where_exp: 'item',"item.licence contains licence.code" %}
+  {% assign cnumber = comps | size %}
+  {% if cnumber > 0 %}
+### {% raw %}{% raw %}{% raw %}{% raw %}{% raw %}{{{% endraw %}{% endraw %}{% endraw %}{% endraw %}{% endraw %}licence.title}}
+
+Published by {% raw %}{% raw %}{% raw %}{% raw %}{% raw %}{{{% endraw %}{% endraw %}{% endraw %}{% endraw %}{% endraw %}licence.publisher}}
+
+Link to legal text: <a href="{% raw %}{% raw %}{% raw %}{% raw %}{% raw %}{{{% endraw %}{% endraw %}{% endraw %}{% endraw %}{% endraw %}licence.link}}">{% raw %}{% raw %}{% raw %}{% raw %}{% raw %}{{{% endraw %}{% endraw %}{% endraw %}{% endraw %}{% endraw %}licence.title}}</a>
+
+{% raw %}{% raw %}{% raw %}{% raw %}{% raw %}{{{% endraw %}{% endraw %}{% endraw %}{% endraw %}{% endraw %}cnumber}} component{% if cnumber > 1%}s are{%else%} is{%endif%} released with this licence:
+<ul>
+ {% for comp in comps %}
+ <li><a href="{% raw %}{% raw %}{% raw %}{% raw %}{% raw %}{{{% endraw %}{% endraw %}{% endraw %}{% endraw %}{% endraw %}comp.url | relative_url}}">
+     {% if comp.name %}{% raw %}{% raw %}{% raw %}{% raw %}{% raw %}{{{% endraw %}{% endraw %}{% endraw %}{% endraw %}{% endraw %}comp.name}}{%else%}{% raw %}{% raw %}{% raw %}{% raw %}{% raw %}{{{% endraw %}{% endraw %}{% endraw %}{% endraw %}{% endraw %}comp.component-id}}{% endif %}
+     </a>
+ </li>
+ {% endfor %}
+</ul>
+   {% endif %}
+{% endfor %}
