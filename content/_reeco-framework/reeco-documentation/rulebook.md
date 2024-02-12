@@ -1,9 +1,10 @@
 ---
 id: reeco-rulebook
 name: Research Ecosystem Development Rulebook
-brief-description: Guidelines, recommendations, and norms on how to contribute to the Polifonia Ecosystem.
+description: Guidelines, recommendations, and norms on how to contribute to the Polifonia Ecosystem.
 type: Documentation
-licence: Apache-2.0
+licence: 
+- Apache-2.0
 credits:
 - https://github.com/enridaga
 - https://github.com/raphaelfournier
