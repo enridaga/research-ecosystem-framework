@@ -3,3 +3,4 @@ reeco-framework/reeco-website-action:branches:main
 reeco-framework/reeco-web-repo-validator:branches:main
 reeco-framework/reeco-python:branches:main
 reeco-framework/reeco-documentation:branches:main
+reeco-framework/reeco-graphics:branches:main
