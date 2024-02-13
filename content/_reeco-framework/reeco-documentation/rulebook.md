@@ -1,5 +1,5 @@
 ---
-id: reeco-rulebook
+component-id: reeco-rulebook
 name: Research Ecosystem Development Rulebook
 description: Guidelines, recommendations, and norms on how to contribute to the Polifonia Ecosystem.
 type: Documentation

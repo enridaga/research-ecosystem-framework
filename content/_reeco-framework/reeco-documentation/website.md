@@ -1,5 +1,5 @@
 ---
-id: reeco-website
+component-id: reeco-website
 name: Research Ecosystem Website
 description: Jekyll-powered website
 type: Website

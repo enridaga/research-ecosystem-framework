@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-graphics",
+    "@type": [
+      "https://reeco-framework.github.io/ecosystem/entity/Repository",
+      "http://purl.org/cerif/frapo/MaterialOutput"
+    ],
+    "https://schema.org/abstract": [
+      {
+        "@language": "en",
+        "@value": "This is the place for graphics and look and feel assets."
+      }
+    ],
+    "https://schema.org/creditText": [
+      {
+        "@id": "http://sparql.xyz/facade-x/data/431c947e7d82f5d4855216525c7dc8c8#/credits"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "reeco-graphics"
+      }
+    ],
+    "https://schema.org/isBasedOn": [
+      {
+        "@value": "This is the place for graphics and look and feel assets."
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@language": "en",
+        "@value": "REECO Graphics"
+      }
+    ]
+  }
+]

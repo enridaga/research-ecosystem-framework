@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-website",
+    "@type": [
+      "https://reeco-framework.github.io/ecosystem/entity/Website",
+      "http://purl.org/cerif/frapo/MaterialOutput"
+    ],
+    "https://schema.org/abstract": [
+      {
+        "@language": "en",
+        "@value": "Jekyll-powered website"
+      }
+    ],
+    "https://schema.org/creditText": [
+      {
+        "@id": "http://sparql.xyz/facade-x/data/f3be60cea6880b0e4bb32b4d81c2e4f9#/credits"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@value": "http://github.com/reeco-framework/reeco-jekyll"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "reeco-website"
+      }
+    ],
+    "https://schema.org/isBasedOn": [
+      {
+        "@value": "Jekyll-powered website"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "Apache-2.0"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@language": "en",
+        "@value": "Research Ecosystem Website"
+      }
+    ]
+  }
+]

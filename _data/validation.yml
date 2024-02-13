@@ -17,6 +17,136 @@ content/_reeco-framework/reeco-annotation-schema/README.md:
       - 'Missing key: ''bibliography'''
       errors:
       - null
+content/_reeco-framework/reeco-documentation/README.md:
+  error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''description'''
+    state:
+      autos:
+      - 'Missing key: ''description'''
+      errors:
+      - null
+  - !!python/object/apply:schema.SchemaError
+    args:
+    - Specify at least one licence from the REECO Annotation Schema reference.
+    state:
+      autos:
+      - 'Key ''licence'' error:'
+      - null
+      - '''Apache-2.0'' should be instance of ''list'''
+      errors:
+      - null
+      - null
+      - Specify at least one licence from the REECO Annotation Schema reference.
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''related-components'''
+    state:
+      autos:
+      - 'Missing key: ''related-components'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+content/_reeco-framework/reeco-documentation/rulebook.md:
+  error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''related-components'''
+    state:
+      autos:
+      - 'Missing key: ''related-components'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+content/_reeco-framework/reeco-documentation/website.md:
+  error:
+  - !!python/object/apply:schema.SchemaError
+    args:
+    - 'Type must be one of: Data, Application, Software, Report, Dataset, Schema,
+      Repository, Registry, Ontology, Corpus, Lexicon, KnowledgeGraph, WebSite, WebApplication,
+      WebService, MobileApp, CLITool, SPARQLEndpoint, Workflow, API, UserInterface,
+      DockerImageContainer, SoftwareLibrary, Notebook, Script, RequirementsCollection,
+      Survey, Documentation, EvaluationReport, Story, Persona, Mockup, InPresenceSurvey,
+      FocusGroup, Tutorial, Component'
+    state:
+      autos:
+      - 'Key ''type'' error:'
+      - null
+      - <lambda>('Website') should evaluate to True
+      errors:
+      - null
+      - null
+      - 'Type must be one of: Data, Application, Software, Report, Dataset, Schema,
+        Repository, Registry, Ontology, Corpus, Lexicon, KnowledgeGraph, WebSite,
+        WebApplication, WebService, MobileApp, CLITool, SPARQLEndpoint, Workflow,
+        API, UserInterface, DockerImageContainer, SoftwareLibrary, Notebook, Script,
+        RequirementsCollection, Survey, Documentation, EvaluationReport, Story, Persona,
+        Mockup, InPresenceSurvey, FocusGroup, Tutorial, Component'
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''related-components'''
+    state:
+      autos:
+      - 'Missing key: ''related-components'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
+content/_reeco-framework/reeco-graphics/README.md:
+  error:
+  - !!python/object/apply:schema.SchemaError
+    args:
+    - Specify at least one licence from the REECO Annotation Schema reference.
+    state:
+      autos:
+      - 'Key ''licence'' error:'
+      - null
+      - '''Apache-2.0'' should be instance of ''list'''
+      errors:
+      - null
+      - null
+      - Specify at least one licence from the REECO Annotation Schema reference.
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''related-components'''
+    state:
+      autos:
+      - 'Missing key: ''related-components'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null
 content/_reeco-framework/reeco-python/README.md:
   error:
   - !!python/object/apply:schema.SchemaMissingKeyError

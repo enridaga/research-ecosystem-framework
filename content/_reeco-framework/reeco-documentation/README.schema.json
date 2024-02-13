@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-documentation",
+    "@type": [
+      "https://reeco-framework.github.io/ecosystem/entity/Documentation",
+      "http://purl.org/cerif/frapo/MaterialOutput"
+    ],
+    "https://schema.org/creditText": [
+      {
+        "@id": "http://sparql.xyz/facade-x/data/c840cd20b032af4ee755dc94865bdd53#/credits"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "reeco-documentation"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@language": "en",
+        "@value": "REECO Documentation"
+      }
+    ]
+  }
+]

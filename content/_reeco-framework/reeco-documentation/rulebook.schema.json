@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-rulebook",
+    "@type": [
+      "https://reeco-framework.github.io/ecosystem/entity/Documentation",
+      "http://purl.org/cerif/frapo/MaterialOutput"
+    ],
+    "https://schema.org/abstract": [
+      {
+        "@language": "en",
+        "@value": "Guidelines, recommendations, and norms on how to contribute to the Polifonia Ecosystem."
+      }
+    ],
+    "https://schema.org/creditText": [
+      {
+        "@id": "http://sparql.xyz/facade-x/data/e96ab005f44a7cec85a7bc808868dc8a#/credits"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "reeco-rulebook"
+      }
+    ],
+    "https://schema.org/isBasedOn": [
+      {
+        "@value": "Guidelines, recommendations, and norms on how to contribute to the Polifonia Ecosystem."
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "Apache-2.0"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@language": "en",
+        "@value": "Research Ecosystem Development Rulebook"
+      }
+    ]
+  }
+]
