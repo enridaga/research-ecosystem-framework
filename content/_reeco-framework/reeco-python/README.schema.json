@@ -1,5 +1,11 @@
 [
   {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-framework",
+    "@type": [
+      "https://schema.org/Project"
+    ]
+  },
+  {
     "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-python-library",
     "@type": [
       "https://reeco-framework.github.io/ecosystem/entity/SoftwareLibrary",
@@ -41,12 +47,6 @@
         "@language": "en",
         "@value": "REECO Python Library"
       }
-    ]
-  },
-  {
-    "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-framework",
-    "@type": [
-      "https://schema.org/Project"
     ]
   }
 ]
