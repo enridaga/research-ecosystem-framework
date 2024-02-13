@@ -2,6 +2,7 @@
 container-id: polifonia-ecosystem
 title: "Polifonia Ecosystem"
 name: "Polifonia Ecosystem"
+parent: "Pilots"
 long-title: The research ecosystem of the EU-funded project Polifonia
 type: Pilot
 funder:
