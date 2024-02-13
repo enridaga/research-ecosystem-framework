@@ -12,4 +12,5 @@ funder:
 credits: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N. 101004746."
 --- 
 
-This pilot refers to the Polifonia ecosystem, which applies the REECO framework.
+# Polifonia Ecosystem
+See the [Polifonia Ecosystem](http://polifonia-project.github.io/ecosystem), which applies the REECO framework.
