@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "@id": "https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator",
+    "@type": [
+      "https://reeco-framework.github.io/ecosystem/entity/Application",
+      "http://purl.org/cerif/frapo/MaterialOutput"
+    ],
+    "https://schema.org/abstract": [
+      {
+        "@language": "en",
+        "@value": "A web applciaiton to test annotations on your repository"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@value": "http://reeco.kmi.open.ac.uk"
+      }
+    ],
+    "https://schema.org/hasPart": [
+      {
+        "@value": "reeco-python"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "reeco-web-repo-validator"
+      },
+      {
+        "@id": "_:nc9c63d755cf9410992733609bee87d1eb1"
+      }
+    ],
+    "https://schema.org/isBasedOn": [
+      {
+        "@value": "A web applciaiton to test annotations on your repository"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@language": "en",
+        "@value": "REECO repository validator"
+      }
+    ]
+  },
+  {
+    "@id": "_:nc9c63d755cf9410992733609bee87d1eb1",
+    "@type": [
+      "https://schema.org/PropertyValue"
+    ],
+    "https://schema.org/PropertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "https://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.10655175"
+      }
+    ]
+  }
+]

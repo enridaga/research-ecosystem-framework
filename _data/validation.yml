@@ -174,3 +174,22 @@ content/_reeco-framework/reeco-python/README.md:
       - 'Missing key: ''bibliography'''
       errors:
       - null
+content/_reeco-framework/reeco-web-repo-validator/README.md:
+  error:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''licence'''
+    state:
+      autos:
+      - 'Missing key: ''licence'''
+      errors:
+      - null
+  warning:
+  - !!python/object/apply:schema.SchemaMissingKeyError
+    args:
+    - 'Missing key: ''bibliography'''
+    state:
+      autos:
+      - 'Missing key: ''bibliography'''
+      errors:
+      - null

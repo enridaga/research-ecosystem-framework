@@ -1,0 +1,66 @@
+<https://reeco-framework.github.io/ecosystem/entity/reeco-documentation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/cerif/frapo/MaterialOutput> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-annotation-schema> <https://schema.org/identifier> _:n60d1abc90213466a903c70d3210cf7cab1 .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-rulebook> <https://schema.org/identifier> "reeco-rulebook" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-annotation-schema> <https://schema.org/creditText> <http://sparql.xyz/facade-x/data/3ef2d1cff9c84b84e509b94be1ce3648#/credits> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-framework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Project> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-documentation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://reeco-framework.github.io/ecosystem/entity/Documentation> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator> <https://schema.org/distribution> "http://reeco.kmi.open.ac.uk" .
+_:nc9c63d755cf9410992733609bee87d1eb1 <https://schema.org/value> "10.5281/zenodo.10655175" .
+_:n60d1abc90213466a903c70d3210cf7cab1 <https://schema.org/value> "10.5281/zenodo.10655170" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-rulebook> <https://schema.org/isBasedOn> "Guidelines, recommendations, and norms on how to contribute to the Polifonia Ecosystem." .
+_:nc9c63d755cf9410992733609bee87d1eb1 <https://schema.org/PropertyID> "doi" .
+_:n60d1abc90213466a903c70d3210cf7cab1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PropertyValue> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <https://schema.org/creditText> <http://sparql.xyz/facade-x/data/8eab5cd5b205dde09daf75ba6fec3d29#/credits> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://reeco-framework.github.io/ecosystem/entity/SoftwareLibrary> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-graphics> <https://schema.org/identifier> "reeco-graphics" .
+_:nc9c63d755cf9410992733609bee87d1eb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PropertyValue> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-annotation-schema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://reeco-framework.github.io/ecosystem/entity/Schema> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <https://schema.org/isBasedOn> "The Python library of the REECO framework." .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-website> <https://schema.org/abstract> "Jekyll-powered website"@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <https://schema.org/identifier> "reeco-python-library" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-rulebook> <https://schema.org/abstract> "Guidelines, recommendations, and norms on how to contribute to the Polifonia Ecosystem."@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-graphics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://reeco-framework.github.io/ecosystem/entity/Repository> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/cerif/frapo/MaterialOutput> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-documentation> <https://schema.org/identifier> "reeco-documentation" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-annotation-schema> <https://schema.org/identifier> "reeco-annotation-schema" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-website> <https://schema.org/distribution> "http://github.com/reeco-framework/reeco-jekyll" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-documentation> <https://schema.org/creditText> <http://sparql.xyz/facade-x/data/c840cd20b032af4ee755dc94865bdd53#/credits> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <https://schema.org/isPartOf> <https://reeco-framework.github.io/ecosystem/entity/reeco-framework> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-graphics> <https://schema.org/title> "REECO Graphics"@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <https://schema.org/distribution> "https://pypi.org/project/reeco/" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-rulebook> <https://schema.org/license> "Apache-2.0" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-website> <https://schema.org/title> "Research Ecosystem Website"@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-website> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://reeco-framework.github.io/ecosystem/entity/Website> .
+_:na30faa38a96a4bccba96c4cc5bc6ba70b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PropertyValue> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-annotation-schema> <https://schema.org/license> "Apache-2.0" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator> <https://schema.org/hasPart> "reeco-python" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-website> <https://schema.org/identifier> "reeco-website" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-website> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/cerif/frapo/MaterialOutput> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator> <https://schema.org/title> "REECO repository validator"@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <https://schema.org/identifier> _:na30faa38a96a4bccba96c4cc5bc6ba70b1 .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-graphics> <https://schema.org/isBasedOn> "This is the place for graphics and look and feel assets." .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-rulebook> <https://schema.org/title> "Research Ecosystem Development Rulebook"@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/cerif/frapo/MaterialOutput> .
+_:na30faa38a96a4bccba96c4cc5bc6ba70b1 <https://schema.org/value> "10.5281/zenodo.10655153" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-graphics> <https://schema.org/abstract> "This is the place for graphics and look and feel assets."@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-website> <https://schema.org/license> "Apache-2.0" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-graphics> <https://schema.org/creditText> <http://sparql.xyz/facade-x/data/431c947e7d82f5d4855216525c7dc8c8#/credits> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-annotation-schema> <https://schema.org/isBasedOn> "The REECO Annotation Schema" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator> <https://schema.org/isBasedOn> "A web applciaiton to test annotations on your repository" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-annotation-schema> <https://schema.org/abstract> "The REECO Annotation Schema"@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <https://schema.org/abstract> "The Python library of the REECO framework."@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-rulebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/cerif/frapo/MaterialOutput> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://reeco-framework.github.io/ecosystem/entity/Application> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-graphics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/cerif/frapo/MaterialOutput> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-python-library> <https://schema.org/title> "REECO Python Library"@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-rulebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://reeco-framework.github.io/ecosystem/entity/Documentation> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator> <https://schema.org/identifier> _:nc9c63d755cf9410992733609bee87d1eb1 .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-website> <https://schema.org/isBasedOn> "Jekyll-powered website" .
+_:na30faa38a96a4bccba96c4cc5bc6ba70b1 <https://schema.org/PropertyID> "doi" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-website> <https://schema.org/creditText> <http://sparql.xyz/facade-x/data/f3be60cea6880b0e4bb32b4d81c2e4f9#/credits> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator> <https://schema.org/identifier> "reeco-web-repo-validator" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-annotation-schema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/cerif/frapo/MaterialOutput> .
+_:n60d1abc90213466a903c70d3210cf7cab1 <https://schema.org/PropertyID> "doi" .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-rulebook> <https://schema.org/creditText> <http://sparql.xyz/facade-x/data/e96ab005f44a7cec85a7bc808868dc8a#/credits> .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-web-repo-validator> <https://schema.org/abstract> "A web applciaiton to test annotations on your repository"@en .
+<https://reeco-framework.github.io/ecosystem/entity/reeco-documentation> <https://schema.org/title> "REECO Documentation"@en .

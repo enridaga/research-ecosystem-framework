@@ -1,1 +1,24 @@
-{}
+reeco-annotation-schema:
+  apa: 'Enrico Daga. (2024). <i>reeco-framework/reeco-annotation-schema: v0.1</i>
+    (Version v0.1) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.10655170'
+  bibtex: ' @book{enrico daga_2024, title={reeco-framework/reeco-annotation-schema:
+    v0.1}, url={https://zenodo.org/doi/10.5281/zenodo.10655170}, DOI={10.5281/ZENODO.10655170},
+    abstractNote={Full Changelog: https://github.com/reeco-framework/reeco-annotation-schema/commits/v0.1},
+    publisher={Zenodo}, author={Enrico Daga}, year={2024}, month={Feb} }'
+  id: reeco-annotation-schema
+reeco-python-library:
+  apa: 'Enrico Daga. (2024). <i>reeco-framework/reeco-python: 0.0.2-1707846505</i>
+    (Version 0.0.2-1707846505) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.10655153'
+  bibtex: ' @book{enrico daga_2024, title={reeco-framework/reeco-python: 0.0.2-1707846505},
+    url={https://zenodo.org/doi/10.5281/zenodo.10655153}, DOI={10.5281/ZENODO.10655153},
+    abstractNote={Full Changelog: https://github.com/reeco-framework/reeco-python/compare/0.0.2-1707215964...0.0.2-1707846505},
+    publisher={Zenodo}, author={Enrico Daga}, year={2024}, month={Feb} }'
+  id: reeco-python-library
+reeco-web-repo-validator:
+  apa: 'Enrico Daga. (2024). <i>reeco-framework/reeco-web-repo-validator: v0.1</i>
+    (Version v0.1) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.10655175'
+  bibtex: ' @book{enrico daga_2024, title={reeco-framework/reeco-web-repo-validator:
+    v0.1}, url={https://zenodo.org/doi/10.5281/zenodo.10655175}, DOI={10.5281/ZENODO.10655175},
+    abstractNote={Full Changelog: https://github.com/reeco-framework/reeco-web-repo-validator/commits/v0.1},
+    publisher={Zenodo}, author={Enrico Daga}, year={2024}, month={Feb} }'
+  id: reeco-web-repo-validator

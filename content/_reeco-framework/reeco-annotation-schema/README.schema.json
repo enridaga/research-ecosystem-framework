@@ -13,12 +13,15 @@
     ],
     "https://schema.org/creditText": [
       {
-        "@id": "http://sparql.xyz/facade-x/data/588a721a7e0b76fecc8261ea0a57f06f#/credits"
+        "@id": "http://sparql.xyz/facade-x/data/3ef2d1cff9c84b84e509b94be1ce3648#/credits"
       }
     ],
     "https://schema.org/identifier": [
       {
         "@value": "reeco-annotation-schema"
+      },
+      {
+        "@id": "_:n60d1abc90213466a903c70d3210cf7cab1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -29,6 +32,22 @@
     "https://schema.org/license": [
       {
         "@value": "Apache-2.0"
+      }
+    ]
+  },
+  {
+    "@id": "_:n60d1abc90213466a903c70d3210cf7cab1",
+    "@type": [
+      "https://schema.org/PropertyValue"
+    ],
+    "https://schema.org/PropertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "https://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.10655170"
       }
     ]
   }

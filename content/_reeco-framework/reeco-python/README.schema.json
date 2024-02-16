@@ -13,7 +13,7 @@
     ],
     "https://schema.org/creditText": [
       {
-        "@id": "http://sparql.xyz/facade-x/data/72ec8ca44c96b5275d29eff3e7d11157#/credits"
+        "@id": "http://sparql.xyz/facade-x/data/8eab5cd5b205dde09daf75ba6fec3d29#/credits"
       }
     ],
     "https://schema.org/distribution": [
@@ -24,6 +24,9 @@
     "https://schema.org/identifier": [
       {
         "@value": "reeco-python-library"
+      },
+      {
+        "@id": "_:na30faa38a96a4bccba96c4cc5bc6ba70b1"
       }
     ],
     "https://schema.org/isBasedOn": [
@@ -40,6 +43,22 @@
       {
         "@language": "en",
         "@value": "REECO Python Library"
+      }
+    ]
+  },
+  {
+    "@id": "_:na30faa38a96a4bccba96c4cc5bc6ba70b1",
+    "@type": [
+      "https://schema.org/PropertyValue"
+    ],
+    "https://schema.org/PropertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "https://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.10655153"
       }
     ]
   },

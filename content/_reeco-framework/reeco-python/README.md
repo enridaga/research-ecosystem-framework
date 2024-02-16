@@ -4,6 +4,7 @@ name: "REECO Python Library"
 description: "The Python library of the REECO framework."
 project: reeco-framework
 type: SoftwareLibrary
+doi: 10.5281/zenodo.10655153
 credits:
 - Enrico Daga <http://github.com/enridaga>
 resource: https://pypi.org/project/reeco/
